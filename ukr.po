@@ -3324,7 +3324,7 @@ msgstr ""
 
 #: application/src/Form/VocabularyForm.php:116
 msgid "File format"
-msgstr ""
+msgstr "формат"
 
 #: application/src/Form/VocabularyForm.php:118
 msgid "[Autodetect]"
@@ -4307,7 +4307,7 @@ msgstr ""
 
 #. Class label for Dublin Core:FileFormat
 msgid "File Format"
-msgstr ""
+msgstr "формат"
 
 #. Class comment for Dublin Core:FileFormat
 msgid "A digital resource format."
@@ -4508,7 +4508,7 @@ msgstr ""
 
 #. Property label for Dublin Core:format
 msgid "Format"
-msgstr ""
+msgstr "формат"
 
 #. Property comment for Dublin Core:format
 msgid "The file format, physical medium, or dimensions of the resource."
