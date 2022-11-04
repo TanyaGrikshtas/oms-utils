@@ -4311,7 +4311,7 @@ msgstr ""
 
 #. Class comment for Dublin Core:FileFormat
 msgid "A digital resource format."
-msgstr ""
+msgstr "формат"
 
 #. Class label for Dublin Core:Frequency
 msgid "Frequency"
