@@ -5849,15 +5849,15 @@ msgstr ""
 
 #. Property label for Bibliographic Ontology:shortDescription
 msgid "shortDescription"
-msgstr ""
+msgstr "короткий опис"
 
 #. Property label for Bibliographic Ontology:shortTitle
 msgid "short title"
-msgstr ""
+msgstr "короткий заголовок"
 
 #. Property comment for Bibliographic Ontology:shortTitle
 msgid "The abbreviation of a title."
-msgstr ""
+msgstr "Абревіатура назви."
 
 #. Property label for Bibliographic Ontology:sici
 msgid "sici"
