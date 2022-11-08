@@ -74,7 +74,7 @@ msgstr "Для текущего пользователя отказано в д�
 #: application/src/Api/Adapter/AbstractEntityAdapter.php:687
 #, php-format
 msgid "%1$s entity with criteria %2$s not found"
-msgstr "Объект %1$s с критерием %2$s не найден"
+msgstr "Об'єкт %1$s з критерієм %2$s не знайдено"
 
 #: application/src/Api/Adapter/SiteAdapter.php:140
 msgid "Welcome"
@@ -91,7 +91,7 @@ msgstr "Переглядати"
 #: application/src/Api/Manager.php:201
 #, php-format
 msgid "The API does not support the \"%s\" resource."
-msgstr "API не поддерживает ресурс %s'. "
+msgstr "API не підтримує ресурс %s'. "
 
 #: application/src/Api/Representation/AbstractResourceEntityRepresentation.php:552 application/view/common/block-layout/browse-preview.phtml:23 application/view/omeka/site/item-set/browse.phtml:26
 #: application/view/omeka/site/item/browse.phtml:61
@@ -104,7 +104,7 @@ msgstr "За замовчуванням"
 
 #: application/src/Controller/Admin/AssetController.php:73
 msgid "Asset uploads must be POSTed."
-msgstr "Загрузки активов должны быть размещены POST. "
+msgstr "Завантаження активів має бути розміщено в POST. "
 
 #: application/src/Controller/Admin/ItemController.php:214
 msgid "Add another item?"
@@ -120,7 +120,7 @@ msgstr "Активний"
 
 #: application/src/Controller/Admin/ModuleController.php:71 application/src/Controller/Admin/ModuleController.php:78 application/view/common/advanced-search/users.phtml:48
 msgid "Not active"
-msgstr "Не активен "
+msgstr "Не активний "
 
 #: application/src/Controller/Admin/ModuleController.php:72 application/src/Controller/Admin/ModuleController.php:79
 msgid "Not installed"
@@ -140,19 +140,19 @@ msgstr "Не знайдено"
 
 #: application/src/Controller/Admin/ModuleController.php:82
 msgid "Invalid module"
-msgstr "Неверный модуль "
+msgstr "Недійсний модуль "
 
 #: application/src/Controller/Admin/ModuleController.php:83
 msgid "Invalid INI"
-msgstr "Неверный INI"
+msgstr "Недійсний INI"
 
 #: application/src/Controller/Admin/ModuleController.php:84
 msgid "Invalid Omeka S version"
-msgstr "Неверная версия ОмекаС"
+msgstr "Недійсна версія Омека S"
 
 #: application/src/Controller/Admin/ResourceTemplateController.php:514
 msgid "Add another resource template?"
-msgstr "Добавить еще один шаблон ресурса? "
+msgstr "Додати ще один шаблон ресурсу? "
 
 #: application/src/Controller/Admin/UserController.php:117
 msgid "Add another user?"
@@ -160,16 +160,16 @@ msgstr "Додати іншого користувача?"
 
 #: application/src/Controller/Admin/VocabularyController.php:92
 msgid "Must provide a vocabulary file or a vocabulary URL"
-msgstr "Необходимо предоставить файл словаря или URL словаря "
+msgstr "Необхідно надати файл словника або URL-адресу словникая "
 
 #: application/src/Controller/Admin/VocabularyController.php:101
 msgid "Import another vocabulary?"
-msgstr "Импортировать другой словарь? "
+msgstr "Імпортувати інший словник? "
 
 #: application/src/DataType/Resource/AbstractResource.php:62
 #, php-format
 msgid "Resource not found with id %s."
-msgstr "Ресурс не найден с идентификатором %s."
+msgstr "Ресурс з ідентифікатором не знайдено %s."
 
 #: application/src/DataType/Resource/Item.php:27 application/view/common/cross-site-search/results.phtml:40 application/view/common/data-type/resource.phtml:23 application/view/layout/layout-admin.phtml:68
 #: application/view/omeka/admin/item-set/show-details.phtml:22 application/view/omeka/admin/item-set/show.phtml:83 application/view/omeka/admin/item/add.phtml:6 application/view/omeka/admin/item/browse.phtml:29
@@ -182,7 +182,7 @@ msgstr "Об'єкти"
 
 #: application/src/DataType/Resource/ItemSet.php:27
 msgid "Item Sets"
-msgstr ""
+msgstr "Набори елементів"
 
 #: application/src/DataType/Resource/Media.php:27 application/view/common/data-type/resource.phtml:37 application/view/layout/layout-admin.phtml:76 application/view/omeka/admin/item/form.phtml:15
 #: application/view/omeka/admin/item/show-details.phtml:40 application/view/omeka/admin/item/show.phtml:92 application/view/omeka/admin/media/browse.phtml:35 application/view/omeka/admin/media/edit.phtml:17
@@ -193,27 +193,27 @@ msgstr "Медіа"
 
 #: application/src/Db/Migration/Manager.php:112
 msgid "Migration file did not contain the expected class"
-msgstr "Файл миграции не содержал ожидаемого класса "
+msgstr "Файл міграції не містить очікуваного класу "
 
 #: application/src/Form/Element/PasswordConfirm.php:22
 #, php-format
 msgid "be a minimum of %s characters in length."
-msgstr "быть длиной не менее %s символов. "
+msgstr "бути довжиною не менше %s символів. "
 
 #: application/src/Form/Element/PasswordConfirm.php:26
 #, php-format
 msgid "contain at least %s lowercase characters."
-msgstr "содержать не менее %s символов нижнего регистра. "
+msgstr "містити не менше %s малих літер. "
 
 #: application/src/Form/Element/PasswordConfirm.php:30
 #, php-format
 msgid "contain at least %s uppercase characters."
-msgstr "содержать не менее %s заглавных букв. "
+msgstr "містити не менше %s великих літер. "
 
 #: application/src/Form/Element/PasswordConfirm.php:34
 #, php-format
 msgid "contain at least %s numbers."
-msgstr "содержат как минимум %s чисел. "
+msgstr "містить не менше %s чисел. "
 
 #: application/src/Form/Element/PasswordConfirm.php:41
 #, php-format
@@ -297,7 +297,7 @@ msgstr "Опції"
 
 #: application/src/Site/BlockLayout/LineBreak.php:43
 msgid "Break type"
-msgstr "Тип разрыва "
+msgstr "Тип разриву "
 
 #: application/src/Site/BlockLayout/ListOfPages.php:60
 msgid "Add pages"
@@ -309,7 +309,7 @@ msgstr "Глибина"
 
 #: application/src/Site/BlockLayout/TableOfContents.php:29
 msgid "Number of child page levels to display"
-msgstr "Количество уровней дочерней страницы для отображения "
+msgstr "Кількість рівнів дочірньої ссторінки для відображення "
 
 #: application/src/Site/Navigation/Link/Page.php:37 application/view/common/block-layout/list-of-pages.phtml:11
 msgid "[Missing Page]"
@@ -331,9 +331,9 @@ msgid ""
 "\n"
 "Your reset link will expire on %4$s."
 msgstr ""
-"Приветствую вас, %1$s! \n"
+"Вітаємо вас, %1$s! \n"
 "\n"
-"Похоже, вы забыли свой пароль для %5$s в %2$s\n"
+"Схоже, ви забули свій пароль для %5$s в %2$s\n"
 "\n"
 " Чтобы сбросить пароль, нажмите на эту ссылку: %3$s \n"
 "\n"
