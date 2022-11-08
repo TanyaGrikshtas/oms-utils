@@ -2619,8 +2619,8 @@ msgid "Components"
 msgstr ""
 
 #: application/src/Site/BlockLayout/BrowsePreview.php:81
-msgid "Components to display for each resource. If not set in Site Settings, Heading defaults to resource Title and Body to resource Description"
-msgstr ""
+msgid "Components to display for each resource. If not set in Site Settings, Heading defaults to resource Title and Body to resource "
+msgstr "Компоненти для відображення для кожного ресурсу. Якщо не встановлено в налаштуваннях сайту, за заголовком за замовчуванням використовується назва ресурсу, а основний вміст — опис ресурсу"
 
 #: application/src/Site/BlockLayout/BrowsePreview.php:85
 msgid "Heading"
@@ -4250,7 +4250,7 @@ msgstr ""
 
 #: application/config/module.config.php:651
 msgid "Description"
-msgstr ""
+msgstr "Бібліографічний опис "
 
 #: application/config/navigation.config.php:201
 msgid "Site admin"
@@ -4307,11 +4307,11 @@ msgstr ""
 
 #. Class label for Dublin Core:FileFormat
 msgid "File Format"
-msgstr "формат"
+msgstr "Формат "
 
 #. Class comment for Dublin Core:FileFormat
 msgid "A digital resource format."
-msgstr "формат"
+msgstr "Формат цифрового ресурсу"
 
 #. Class label for Dublin Core:Frequency
 msgid "Frequency"
@@ -4319,11 +4319,11 @@ msgstr "Частота"
 
 #. Class comment for Dublin Core:Frequency
 msgid "A rate at which something recurs."
-msgstr ""
+msgstr "Швидкість відтворення "
 
 #. Class label for Dublin Core:Jurisdiction
 msgid "Jurisdiction"
-msgstr ""
+msgstr "Юрисдикція"
 
 #. Class comment for Dublin Core:Jurisdiction
 msgid "The extent or range of judicial, law enforcement, or other authority."
@@ -4331,7 +4331,7 @@ msgstr ""
 
 #. Class label for Dublin Core:LicenseDocument
 msgid "License Document"
-msgstr ""
+msgstr "Ліцензійний документ "
 
 #. Class comment for Dublin Core:LicenseDocument
 msgid "A legal document giving official permission to do something with a Resource."
@@ -4347,11 +4347,11 @@ msgstr ""
 
 #. Class label for Dublin Core:Location
 msgid "Location"
-msgstr ""
+msgstr "Місцезнаходження "
 
 #. Class comment for Dublin Core:Location
 msgid "A spatial region or named place."
-msgstr ""
+msgstr "Просторова область або назване місце. "
 
 #. Class label for Dublin Core:LocationPeriodOrJurisdiction
 msgid "Location, Period, or Jurisdiction"
@@ -4468,15 +4468,15 @@ msgstr ""
 
 #. Property label for Dublin Core:subject
 msgid "Subject"
-msgstr ""
+msgstr "Тема "
 
 #. Property comment for Dublin Core:subject
 msgid "The topic of the resource."
-msgstr ""
+msgstr "Тематика ресурсу. "
 
 #. Property comment for Dublin Core:description
 msgid "An account of the resource."
-msgstr ""
+msgstr "Обліковий запис ресурсу."
 
 #. Property label for Dublin Core:publisher
 msgid "Publisher"
@@ -4484,7 +4484,7 @@ msgstr "Видавець"
 
 #. Property comment for Dublin Core:publisher
 msgid "An entity responsible for making the resource available."
-msgstr ""
+msgstr "Організація, відповідальна за надання ресурсу. "
 
 #. Property label for Dublin Core:contributor
 msgid "Contributor"
@@ -4496,27 +4496,27 @@ msgstr ""
 
 #. Property label for Dublin Core:date
 msgid "Date"
-msgstr ""
+msgstr "Дата "
 
 #. Property comment for Dublin Core:date
 msgid "A point or period of time associated with an event in the lifecycle of the resource."
-msgstr ""
+msgstr "Точка або період часу, пов’язаний із подією в життєвому циклі ресурсу. "
 
 #. Property comment for Dublin Core:type
 msgid "The nature or genre of the resource."
-msgstr ""
+msgstr "Характер або жанр ресурсу. "
 
 #. Property label for Dublin Core:format
 msgid "Format"
-msgstr "формат"
+msgstr "Формат"
 
 #. Property comment for Dublin Core:format
 msgid "The file format, physical medium, or dimensions of the resource."
-msgstr ""
+msgstr "Формат файлу, фізичний носій або розміри ресурсу. "
 
 #. Property comment for Dublin Core:identifier
 msgid "An unambiguous reference to the resource within a given context."
-msgstr ""
+msgstr "Однозначне посилання на ресурс у визначеному контексті. "
 
 #. Property comment for Dublin Core:source
 msgid "A related resource from which the described resource is derived."
@@ -4524,35 +4524,35 @@ msgstr ""
 
 #. Property comment for Dublin Core:language
 msgid "A language of the resource."
-msgstr ""
+msgstr "Мова ресурсу. "
 
 #. Property label for Dublin Core:relation
 msgid "Relation"
-msgstr ""
+msgstr "Відношення "
 
 #. Property comment for Dublin Core:relation
 msgid "A related resource."
-msgstr ""
+msgstr "Пов'язаний ресурс."
 
 #. Property label for Dublin Core:coverage
 msgid "Coverage"
-msgstr ""
+msgstr "Покриття"
 
 #. Property comment for Dublin Core:coverage
 msgid "The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant."
-msgstr ""
+msgstr "Просторова або часова тема ресурсу, просторова застосовність ресурсу або юрисдикція, під якою ресурс є релевантним. "
 
 #. Property label for Dublin Core:rights
 msgid "Rights"
-msgstr ""
+msgstr "Права "
 
 #. Property comment for Dublin Core:rights
 msgid "Information about rights held in and over the resource."
-msgstr ""
+msgstr "Інформація про права на ресурс і на нього. "
 
 #. Property label for Dublin Core:audience
 msgid "Audience"
-msgstr ""
+msgstr "Аудиторія "
 
 #. Property comment for Dublin Core:audience
 msgid "A class of entity for whom the resource is intended or useful."
@@ -4560,96 +4560,96 @@ msgstr ""
 
 #. Property label for Dublin Core:alternative
 msgid "Alternative Title"
-msgstr ""
+msgstr "Альтернативна назва"
 
 #. Property comment for Dublin Core:alternative
 msgid "An alternative name for the resource."
-msgstr ""
+msgstr "Альтернативна назва ресурсу. "
 
 #. Property label for Dublin Core:tableOfContents
 msgid "Table Of Contents"
-msgstr ""
+msgstr "Зміст"
 
 #. Property comment for Dublin Core:tableOfContents
 msgid "A list of subunits of the resource."
-msgstr ""
+msgstr "Перелік підрозділів ресурсу."
 
 #. Property label for Dublin Core:abstract
 msgid "Abstract"
-msgstr ""
+msgstr "Анотація "
 
 #. Property comment for Dublin Core:abstract
 #. Property comment for Bibliographic Ontology:abstract
 msgid "A summary of the resource."
-msgstr ""
+msgstr "Короткий зміст ресурсу. "
 
 #. Property label for Dublin Core:created
 msgid "Date Created"
-msgstr ""
+msgstr "Дата створення "
 
 #. Property comment for Dublin Core:created
 msgid "Date of creation of the resource."
-msgstr ""
+msgstr "Дата створення ресурсу."
 
 #. Property label for Dublin Core:valid
 msgid "Date Valid"
-msgstr ""
+msgstr "Дата дійсна "
 
 #. Property comment for Dublin Core:valid
 msgid "Date (often a range) of validity of a resource."
-msgstr ""
+msgstr "Дата (часто діапазон) дійсності ресурсу. "
 
 #. Property label for Dublin Core:available
 msgid "Date Available"
-msgstr ""
+msgstr "Доступна дата "
 
 #. Property comment for Dublin Core:available
 msgid "Date (often a range) that the resource became or will become available."
-msgstr ""
+msgstr "Дата (часто діапазон), коли ресурс став або стане доступним. "
 
 #. Property label for Dublin Core:issued
 msgid "Date Issued"
-msgstr ""
+msgstr "Дата видачі "
 
 #. Property comment for Dublin Core:issued
 msgid "Date of formal issuance (e.g., publication) of the resource."
-msgstr ""
+msgstr "Дата офіційного випуску (наприклад, публікації) ресурсу. "
 
 #. Property label for Dublin Core:modified
 msgid "Date Modified"
-msgstr ""
+msgstr "Дата зміни "
 
 #. Property comment for Dublin Core:modified
 msgid "Date on which the resource was changed."
-msgstr ""
+msgstr "Дата зміни ресурсу. "
 
 #. Property label for Dublin Core:extent
 msgid "Extent"
-msgstr ""
+msgstr "Ступінь "
 
 #. Property comment for Dublin Core:extent
 msgid "The size or duration of the resource."
-msgstr ""
+msgstr "Розмір або тривалість ресурсу. "
 
 #. Property label for Dublin Core:medium
 msgid "Medium"
-msgstr ""
+msgstr "Середній "
 
 #. Property comment for Dublin Core:medium
 msgid "The material or physical carrier of the resource."
-msgstr ""
+msgstr "Матеріальний або фізичний носій ресурсу. "
 
 #. Property label for Dublin Core:isVersionOf
 msgid "Is Version Of"
-msgstr ""
+msgstr "Є версією "
 
 #. Property comment for Dublin Core:isVersionOf
 msgid "A related resource of which the described resource is a version, edition, or adaptation."
-msgstr ""
+msgstr "Пов'язаний ресурс, версією, виданням або адаптацією якого є описаний ресурс. "
 
 #. Property label for Dublin Core:hasVersion
 msgid "Has Version"
-msgstr ""
+msgstr "Є версія "
 
 #. Property comment for Dublin Core:hasVersion
 msgid "A related resource that is a version, edition, or adaptation of the described resource."
@@ -4665,7 +4665,7 @@ msgstr ""
 
 #. Property label for Dublin Core:replaces
 msgid "Replaces"
-msgstr ""
+msgstr "Замінює "
 
 #. Property comment for Dublin Core:replaces
 msgid "A related resource that is supplanted, displaced, or superseded by the described resource."
@@ -4681,7 +4681,7 @@ msgstr ""
 
 #. Property label for Dublin Core:requires
 msgid "Requires"
-msgstr ""
+msgstr "Вимагає "
 
 #. Property comment for Dublin Core:requires
 msgid "A related resource that is required by the described resource to support its function, delivery, or coherence."
@@ -4689,11 +4689,11 @@ msgstr ""
 
 #. Property label for Dublin Core:isPartOf
 msgid "Is Part Of"
-msgstr ""
+msgstr "Є частиною "
 
 #. Property comment for Dublin Core:isPartOf
 msgid "A related resource in which the described resource is physically or logically included."
-msgstr ""
+msgstr "Пов'язаний ресурс, до якого фізично або логічно включено описаний ресурс."
 
 #. Property label for Dublin Core:hasPart
 msgid "Has Part"
@@ -4809,43 +4809,43 @@ msgstr ""
 
 #. Property label for Dublin Core:bibliographicCitation
 msgid "Bibliographic Citation"
-msgstr ""
+msgstr "Бібліографічне цитування "
 
 #. Property comment for Dublin Core:bibliographicCitation
 msgid "A bibliographic reference for the resource."
-msgstr ""
+msgstr "Бібліографічна довідка до ресурсу. "
 
 #. Property label for Dublin Core:license
 msgid "License"
-msgstr ""
+msgstr "Ліцензія"
 
 #. Property comment for Dublin Core:license
 msgid "A legal document giving official permission to do something with the resource."
-msgstr ""
+msgstr "Юридичний документ, який дає офіційний дозвіл на будь-які дії з ресурсом. "
 
 #. Property label for Dublin Core:rightsHolder
 msgid "Rights Holder"
-msgstr ""
+msgstr "Правовласник "
 
 #. Property comment for Dublin Core:rightsHolder
 msgid "A person or organization owning or managing rights over the resource."
-msgstr ""
+msgstr "Особа чи організація, яка володіє або розпоряджається правами на ресурс."
 
 #. Property label for Dublin Core:provenance
 msgid "Provenance"
-msgstr ""
+msgstr "Походження "
 
 #. Property comment for Dublin Core:provenance
 msgid "A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation."
-msgstr ""
+msgstr "Повідомлення про будь-які зміни у власності та зберіганні ресурсу з моменту його створення, які мають значення для його автентичності, цілісності та тлумачення. "
 
 #. Property label for Dublin Core:instructionalMethod
 msgid "Instructional Method"
-msgstr ""
+msgstr "Навчально-методичне"
 
 #. Property comment for Dublin Core:instructionalMethod
 msgid "A process, used to engender knowledge, attitudes and skills, that the described resource is designed to support."
-msgstr ""
+msgstr "Процес, який використовується для формування знань, ставлень і навичок, для підтримки яких розроблено описаний ресурс. "
 
 #. Property label for Dublin Core:accrualMethod
 msgid "Accrual Method"
@@ -4890,7 +4890,7 @@ msgstr ""
 
 #. Class label for Dublin Core Type:Dataset
 msgid "Dataset"
-msgstr ""
+msgstr "Набір даних "
 
 #. Class comment for Dublin Core Type:Dataset
 msgid "Data encoded in a defined structure."
@@ -4899,37 +4899,37 @@ msgstr "Закодовані дані у визначеній структурі
 #. Class label for Dublin Core Type:Event
 #. Class label for Bibliographic Ontology:Event
 msgid "Event"
-msgstr ""
+msgstr "Подія"
 
 #. Class comment for Dublin Core Type:Event
 msgid "A non-persistent, time-based occurrence."
-msgstr ""
+msgstr "Непостійне явище, що залежить від часу. "
 
 #. Class label for Dublin Core Type:Image
 #. Class label for Bibliographic Ontology:Image
 #. Class label for Friend of a Friend:Image
 msgid "Image"
-msgstr ""
+msgstr "Зображення"
 
 #. Class comment for Dublin Core Type:Image
 msgid "A visual representation other than text."
-msgstr ""
+msgstr "Візуальне представлення, відмінне від тексту."
 
 #. Class label for Dublin Core Type:InteractiveResource
 msgid "Interactive Resource"
-msgstr ""
+msgstr "Інтерактивний ресурс "
 
 #. Class comment for Dublin Core Type:InteractiveResource
 msgid "A resource requiring interaction from the user to be understood, executed, or experienced."
-msgstr ""
+msgstr "Ресурс, який потребує взаємодії з користувачем для розуміння, виконання або досвіду. "
 
 #. Class label for Dublin Core Type:Service
 msgid "Service"
-msgstr ""
+msgstr "Сервіс "
 
 #. Class comment for Dublin Core Type:Service
 msgid "A system that provides one or more functions."
-msgstr ""
+msgstr "Система, яка забезпечує одну або декілька функцій. "
 
 #. Class label for Dublin Core Type:Software
 msgid "Software"
@@ -4937,7 +4937,7 @@ msgstr "Програмне забезпечення"
 
 #. Class comment for Dublin Core Type:Software
 msgid "A computer program in source or compiled form."
-msgstr ""
+msgstr "Комп’ютерна програма у початковій або скомпільованій формі. "
 
 #. Class label for Dublin Core Type:Sound
 msgid "Sound"
@@ -4945,19 +4945,19 @@ msgstr "Звук"
 
 #. Class comment for Dublin Core Type:Sound
 msgid "A resource primarily intended to be heard."
-msgstr ""
+msgstr "Ресурс, насамперед призначений для того, щоб бути почутим. "
 
 #. Class comment for Dublin Core Type:Text
 msgid "A resource consisting primarily of words for reading."
-msgstr ""
+msgstr "Ресурс, що складається переважно зі слів для читання. "
 
 #. Class label for Dublin Core Type:PhysicalObject
 msgid "Physical Object"
-msgstr ""
+msgstr "Фізичний об'єкт "
 
 #. Class comment for Dublin Core Type:PhysicalObject
 msgid "An inanimate, three-dimensional object or substance."
-msgstr ""
+msgstr "Неживий, тривимірний предмет або речовина."
 
 #. Class label for Dublin Core Type:StillImage
 msgid "Still Image"
