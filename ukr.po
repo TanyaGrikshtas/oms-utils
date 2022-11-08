@@ -4435,7 +4435,7 @@ msgstr ""
 
 #. Class label for Dublin Core:RightsStatement
 msgid "Rights Statement"
-msgstr ""
+msgstr "Заява про права "
 
 #. Class comment for Dublin Core:RightsStatement
 msgid "A statement about the intellectual property rights (IPR) held in or over a Resource, a legal document giving official permission to do something with a resource, or a statement about access rights."
@@ -4496,7 +4496,7 @@ msgstr ""
 
 #. Property label for Dublin Core:date
 msgid "Date"
-msgstr "Дата "
+msgstr "Дата"
 
 #. Property comment for Dublin Core:date
 msgid "A point or period of time associated with an event in the lifecycle of the resource."
@@ -4544,7 +4544,7 @@ msgstr "Просторова або часова тема ресурсу, про
 
 #. Property label for Dublin Core:rights
 msgid "Rights"
-msgstr "Права "
+msgstr "Права"
 
 #. Property comment for Dublin Core:rights
 msgid "Information about rights held in and over the resource."
