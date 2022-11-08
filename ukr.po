@@ -376,7 +376,7 @@ msgstr "Активация пользователя для %s "
 
 #: application/src/View/Helper/BlockShowTitleSelect.php:33
 msgid "Show attachment title"
-msgstr "Показать заголовок прикрепленного файла "
+msgstr "Показати заголовок прикріпленого файлу"
 
 #: application/src/View/Helper/BlockThumbnailTypeSelect.php:42
 msgid "Thumbnail type"
@@ -659,13 +659,13 @@ msgstr "Выполняет поиск объектов, назначенных �
 #: application/view/omeka/admin/media/browse.phtml:9 application/view/omeka/admin/media/browse.phtml:83 application/view/omeka/site-admin/index/index.phtml:7 application/view/omeka/site-admin/index/index.phtml:39
 #: application/view/omeka/site-admin/index/resources.phtml:66 application/view/omeka/site-admin/index/show.phtml:24 application/view/omeka/site-admin/page/index.phtml:15 application/view/omeka/site-admin/page/index.phtml:48
 #: application/view/omeka/site/item/browse.phtml:17
-msgid "Title"
+msgid "Назва"
 msgstr "Назва"
 
 #: application/view/common/advanced-search/sort.phtml:7 application/view/omeka/admin/item-set/browse.phtml:11 application/view/omeka/admin/item/browse.phtml:11 application/view/omeka/admin/media/browse.phtml:13
 #: application/view/omeka/site/item/browse.phtml:21
 msgid "Identifier"
-msgstr "Идентифікатор"
+msgstr "Ідентифікатор"
 
 #: application/view/common/advanced-search/sort.phtml:9 application/view/omeka/admin/asset/browse.phtml:38 application/view/omeka/admin/item-set/browse.phtml:19 application/view/omeka/admin/item-set/browse.phtml:76
 #: application/view/omeka/admin/item-set/show.phtml:74 application/view/omeka/admin/item/browse.phtml:19 application/view/omeka/admin/item/browse.phtml:74 application/view/omeka/admin/item/manage-item-sets.phtml:34
@@ -673,7 +673,7 @@ msgstr "Идентифікатор"
 #: application/view/omeka/admin/job/show.phtml:45 application/view/omeka/admin/media/browse.phtml:21 application/view/omeka/admin/media/browse.phtml:86 application/view/omeka/admin/resource-template/browse.phtml:15
 #: application/view/omeka/admin/resource-template/browse.phtml:46 application/view/omeka/site-admin/index/index.phtml:15 application/view/omeka/site-admin/index/index.phtml:41 application/view/omeka/site-admin/index/resources.phtml:67
 msgid "Owner"
-msgstr "Володар"
+msgstr "Власник"
 
 #: application/view/common/advanced-search/sort.phtml:10 application/view/omeka/admin/item-set/browse.phtml:23 application/view/omeka/admin/item-set/browse.phtml:77 application/view/omeka/admin/item-set/show.phtml:70
 #: application/view/omeka/admin/item/browse.phtml:23 application/view/omeka/admin/item/browse.phtml:75 application/view/omeka/admin/item/show.phtml:83 application/view/omeka/admin/media/browse.phtml:25
