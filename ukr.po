@@ -24,27 +24,27 @@ msgstr ""
 #: application/src/Api/Adapter/AbstractAdapter.php:40
 #, php-format
 msgid "The %1$s adapter does not implement the search operation."
-msgstr "Адаптер %1$s не выполняет операцию поиска. "
+msgstr "Адаптер %1$s не реалізує операцію пошуку."
 
 #: application/src/Api/Adapter/AbstractAdapter.php:50
 #, php-format
 msgid "The %1$s adapter does not implement the create operation."
-msgstr "Адаптер %1$s не реализует операцию создания. "
+msgstr "Адаптер %1$s не реалізує операцію формування."
 
 #: application/src/Api/Adapter/AbstractAdapter.php:60
 #, php-format
 msgid "The %1$s adapter does not implement the batch create operation."
-msgstr "Адаптер %1$s не реализует операцию пакетного создания. "
+msgstr "Адаптер %1$s не реалізує операцію пакетного формування."
 
 #: application/src/Api/Adapter/AbstractAdapter.php:70
 #, php-format
 msgid "The %1$s adapter does not implement the read operation."
-msgstr "Адаптер %1$s не выполняет операцию чтения. "
+msgstr "Адаптер %1$s не виконує операцію читання."
 
 #: application/src/Api/Adapter/AbstractAdapter.php:80
 #, php-format
 msgid "The %1$s adapter does not implement the update operation."
-msgstr "Адаптер %1$s не выполняет операцию обновления. "
+msgstr "Адаптер %1$s не виконує операцію оновлення."
 
 #: application/src/Api/Adapter/AbstractAdapter.php:90
 #, php-format
@@ -2754,11 +2754,11 @@ msgstr "Відсутнє обмеження для конфігурації ти
 
 #: application/src/File/ThumbnailManager.php:117
 msgid "Missing thumbnail fallbacks configuration."
-msgstr ""
+msgstr "Відсутня резервна конфігурація мініатюр."
 
 #: application/src/File/ThumbnailManager.php:120
 msgid "Missing default thumbnail fallback configuration."
-msgstr ""
+msgstr "Відсутня резервна конфігурація мініатюри за замовчуванням."
 
 #: application/src/File/ThumbnailManager.php:123
 msgid "Missing thumbnail fallback configuration."
@@ -2766,22 +2766,22 @@ msgstr ""
 
 #: application/src/File/ThumbnailManager.php:127
 msgid "Invalid thumbnail fallback configuration."
-msgstr ""
+msgstr "Недійсна резервна конфігурація мініатюри."
 
 #: application/src/File/Downloader.php:71
 #, php-format
 msgid "Error downloading %1$s: %2$s"
-msgstr ""
+msgstr "Помилка завантаження"
 
 #: application/src/File/Downloader.php:83
 #, php-format
 msgid "Error downloading %1$s: %2$s %3$s"
-msgstr ""
+msgstr "Помилка завантаження"
 
 #: application/src/File/Validator.php:65
 #, php-format
 msgid "Error validating \"%1$s\". Cannot store files with the media type \"%2$s\"."
-msgstr ""
+msgstr "Помилка перевірки \"%1$s\". Неможливо зберегти файли з типом носія \"%2$s\"."
 
 #: application/src/File/Validator.php:78
 #, php-format
@@ -2896,16 +2896,16 @@ msgstr "Сторінка повинна мати назву. "
 
 #: application/src/Api/Adapter/SitePageAdapter.php:154 application/src/Api/Adapter/SiteAdapter.php:240
 msgid "The slug cannot be empty."
-msgstr "Слаг не может быть пустым. "
+msgstr "Слаг не може бути порожнім. "
 
 #: application/src/Api/Adapter/SitePageAdapter.php:157 application/src/Api/Adapter/SiteAdapter.php:243
 msgid "A slug can only contain letters, numbers, underscores, and hyphens."
-msgstr "Слаг может содержать только буквы, цифры, знаки подчеркивания и дефисы. "
+msgstr "Слаг може містити лише літери, цифри, підкреслення та дефіси."
 
 #: application/src/Api/Adapter/SitePageAdapter.php:165 application/src/Api/Adapter/SiteAdapter.php:247
 #, php-format
 msgid "The slug \"%s\" is already taken."
-msgstr "Слаг \"%s\" уже занят. "
+msgstr "Слаг \"%s\" вже зайнятий. "
 
 #: application/src/Api/Adapter/SitePageAdapter.php:209
 msgid "All blocks must have a layout."
@@ -2913,7 +2913,7 @@ msgstr "Всі блоки повинні мати макет."
 
 #: application/src/Api/Adapter/SitePageAdapter.php:213
 msgid "Block data must not be a scalar value."
-msgstr "Данные блока не должны быть скалярным значением. "
+msgstr "Дані блоку не повинні бути числовим значенням."
 
 #: application/src/Api/Adapter/SiteAdapter.php:236
 msgid "A site must have a title."
