@@ -108,7 +108,7 @@ msgstr "Завантаження активів має бути розміщен
 
 #: application/src/Controller/Admin/ItemController.php:214
 msgid "Add another item?"
-msgstr "Додати ще один об'єкт?"
+msgstr "Додати ще одне видання?"
 
 #: application/src/Controller/Admin/ItemSetController.php:36
 msgid "Add another item set?"
@@ -289,7 +289,7 @@ msgstr "Текущему пользователю отказано в досту
 
 #: application/src/Site/BlockLayout/Fallback.php:37
 msgid "This layout is invalid."
-msgstr "Этот макет недействителен. "
+msgstr "Цей макет недійсний."
 
 #: application/src/Site/BlockLayout/ItemShowcase.php:22 application/src/Site/BlockLayout/Media.php:22 application/view/common/asset-block-form.phtml:58
 msgid "Options"
@@ -297,7 +297,7 @@ msgstr "Опції"
 
 #: application/src/Site/BlockLayout/LineBreak.php:43
 msgid "Break type"
-msgstr "Тип разриву"
+msgstr "Тип розриву"
 
 #: application/src/Site/BlockLayout/ListOfPages.php:60
 msgid "Add pages"
@@ -380,7 +380,7 @@ msgstr "Показати заголовок прикріпленого файл�
 
 #: application/src/View/Helper/BlockThumbnailTypeSelect.php:42
 msgid "Thumbnail type"
-msgstr "Тип эскиза "
+msgstr "Тип ескізу"
 
 #: application/src/View/Helper/CancelButton.php:14 application/view/common/query-form.phtml:27 application/view/omeka/admin/vocabulary/update.phtml:23
 msgid "Cancel"
@@ -425,11 +425,11 @@ msgstr "містить"
 
 #: application/src/View/Helper/SearchFilters.php:35 application/view/common/advanced-search/properties.phtml:69
 msgid "does not contain"
-msgstr "не содержит "
+msgstr "не містить"
 
 #: application/src/View/Helper/SearchFilters.php:36 application/view/common/advanced-search/properties.phtml:70
 msgid "is resource with ID"
-msgstr "ресурс с идентификатором "
+msgstr "ресурс з ідентифікатором "
 
 #: application/src/View/Helper/SearchFilters.php:37 application/view/common/advanced-search/properties.phtml:71
 msgid "is not resource with ID"
@@ -518,7 +518,7 @@ msgstr "Невідомий сайт"
 
 #: application/src/View/Helper/SearchUserFilters.php:49 application/view/omeka/admin/user/browse.phtml:10 application/view/omeka/admin/user/browse.phtml:78 application/view/omeka/admin/user/show.phtml:17
 msgid "Email"
-msgstr "ел. пошта"
+msgstr "електронна пошта"
 
 #: application/src/View/Helper/SearchUserFilters.php:54 application/view/omeka/admin/asset/browse.phtml:12 application/view/omeka/admin/asset/browse.phtml:37
 msgid "Name"
@@ -604,7 +604,7 @@ msgstr "Шукає ресурси, якими володіє цей корист
 
 #: application/view/common/advanced-search/properties.phtml:33
 msgid "Query text"
-msgstr "Текст запита"
+msgstr "Текст запиту"
 
 #: application/view/common/advanced-search/properties.phtml:39
 msgid "Search by value"
@@ -636,7 +636,7 @@ msgstr "Додати новий клас"
 
 #: application/view/common/advanced-search/resource-template.phtml:16
 msgid "Search by template"
-msgstr "Поиск по шаблону "
+msgstr "Пшук за шаблоном"
 
 #: application/view/common/advanced-search/resource-template.phtml:19
 msgid "Searches for resources that use any of these templates."
@@ -644,11 +644,11 @@ msgstr "Выполняет поиск ресурсов, использующих
 
 #: application/view/common/advanced-search/resource-template.phtml:21
 msgid "Add new template"
-msgstr "Добавить новый шаблон "
+msgstr "Додати новий шаблон "
 
 #: application/view/common/advanced-search/site.phtml:3
 msgid "Search by site"
-msgstr "Поиск по сайту "
+msgstr "Пошук по сайту "
 
 #: application/view/common/advanced-search/site.phtml:6
 msgid "Searches for items that are assigned to this site."
@@ -688,7 +688,7 @@ msgstr "Розмір"
 
 #: application/view/common/advanced-search/sort.phtml:27
 msgid "Select sort by…"
-msgstr ""
+msgstr "Виберіть сортування за..."
 
 #: application/view/common/advanced-search/sort.phtml:32
 msgid "Select sort order…"
@@ -708,7 +708,7 @@ msgstr "Сортування"
 
 #: application/view/common/advanced-search/users.phtml:17
 msgid "Search by email"
-msgstr "Искать по электронной почте "
+msgstr "Шукати за електронною поштою "
 
 #: application/view/common/advanced-search/users.phtml:25
 msgid "Search by name"
@@ -749,7 +749,7 @@ msgstr "Ресурси"
 
 #: application/view/common/asset-block-form.phtml:54
 msgid "Add asset"
-msgstr ""
+msgstr "Додати ресурс"
 
 #: application/view/common/asset-form.phtml:35 application/view/common/asset-options.phtml:15
 msgid "[No asset selected]"
@@ -765,7 +765,7 @@ msgstr "Очистити"
 
 #: application/view/common/asset-options.phtml:10
 msgid "No Asset"
-msgstr ""
+msgstr "Немає ресурсу"
 
 #: application/view/common/asset-options.phtml:19 application/view/omeka/admin/query/sidebar-edit.phtml:12
 msgid "Preview"
@@ -791,11 +791,11 @@ msgstr "Закрити"
 
 #: application/view/common/asset-options.phtml:32
 msgid "Page link"
-msgstr ""
+msgstr "Посилання на сторінку"
 
 #: application/view/common/asset-options.phtml:40
 msgid "Alternative link title"
-msgstr ""
+msgstr "Альтернативна назва посилання"
 
 #: application/view/common/asset-options.phtml:44 application/view/omeka/site-admin/page/edit.phtml:54
 msgid "Caption"
@@ -850,7 +850,7 @@ msgstr "Розширений пошук"
 #: application/view/common/cross-site-search/item-results.phtml:8
 #, php-format
 msgid "Item results for \"%s\""
-msgstr "Результаты по запросу \"%s\" "
+msgstr "Результаты за запитом \"%s\" "
 
 #: application/view/common/cross-site-search/item-set-results.phtml:3 application/view/omeka/search/item-sets-advanced.phtml:2
 msgid "Advanced item set search"
@@ -868,21 +868,21 @@ msgstr "Результати пошуку для: %s\" "
 
 #: application/view/common/cross-site-search/results.phtml:13 application/view/omeka/site/item/show.phtml:35
 msgid "Site pages"
-msgstr "Сторінки сайта"
+msgstr "Сторінки сайту"
 
 #: application/view/common/cross-site-search/results.phtml:24 application/view/common/cross-site-search/results.phtml:55 application/view/common/cross-site-search/results.phtml:85 application/view/omeka/site/index/search.phtml:45
 #, php-format
 msgid "View all results (%s total)"
-msgstr "Просмотреть все результаты (всего %s) "
+msgstr "Переглянути всі результати (всього %s) "
 
 #: application/view/common/cross-site-search/results.phtml:97 application/view/omeka/site/index/search.phtml:11
 msgid "No result found"
-msgstr "Результатов не найдено "
+msgstr "Результатів не знайдено "
 
 #: application/view/common/cross-site-search/site-page-results.phtml:3
 #, php-format
 msgid "Site page results for \"%s\""
-msgstr "Результаты на странице сайта по запросу \"%s\" "
+msgstr "Результати на сторінці сайту за запитом \"%s\" "
 
 #: application/view/common/data-type-wrapper.phtml:12 application/view/common/resource-form-templates.phtml:23
 msgid "Omeka resource"
@@ -890,11 +890,11 @@ msgstr "Омека ресурс"
 
 #: application/view/common/data-type-wrapper.phtml:16 application/view/common/value-annotation-wrapper.phtml:9
 msgid "Value to be removed"
-msgstr "Значення, що буде видалено "
+msgstr "Значення для видалення"
 
 #: application/view/common/data-type-wrapper.phtml:21
 msgid "More actions"
-msgstr ""
+msgstr "Більше дій"
 
 #: application/view/common/data-type-wrapper.phtml:24 application/view/common/media-field-wrapper.phtml:10 application/view/omeka/admin/item-set/form.phtml:43 application/view/omeka/admin/item/form.phtml:52
 #: application/view/omeka/admin/item/manage-media.phtml:30 application/view/omeka/admin/media/edit.phtml:54 application/view/omeka/site-admin/index/add-page.phtml:18 application/view/omeka/site-admin/index/add.phtml:26
@@ -904,7 +904,7 @@ msgstr "Зробити приватним"
 
 #: application/view/common/data-type-wrapper.phtml:27 application/view/common/value-annotation-sidebar.phtml:6
 msgid "Annotate value"
-msgstr ""
+msgstr "Анотувати значення"
 
 #: application/view/common/data-type/literal.phtml:4 application/view/common/data-type/value-annotation-literal.phtml:2
 msgid "Set language"
@@ -932,16 +932,16 @@ msgstr "Мітка"
 #: application/view/common/delete-confirm.phtml:12
 #, php-format
 msgid "Delete %s"
-msgstr "Delete %s"
+msgstr "Видалити %s"
 
 #: application/view/common/delete-confirm.phtml:13
 #, php-format
 msgid "Are you sure you would like to delete this %s?"
-msgstr "Вы уверены, что хотите удалить %s? "
+msgstr "Ви впевнені, що хочете видалити %s? "
 
 #: application/view/common/filter-selector.phtml:6
 msgid "No filter"
-msgstr "Без фільтра"
+msgstr "Без фільтру"
 
 #: application/view/common/filter-selector.phtml:13 application/view/omeka/admin/module/browse.phtml:14
 msgid "Filter"
@@ -953,7 +953,7 @@ msgstr "Дізнатися більше"
 
 #: application/view/common/item-set-selector.phtml:8
 msgid "Click on an item set to add it to the edit panel."
-msgstr "Щелкните набор объектов, чтобы добавить его на панель редактирования. "
+msgstr "Натисніть на набір видань, щоб додати його на панель редагування. "
 
 #: application/view/common/item-set-selector.phtml:9
 msgid "Filter item sets"
@@ -963,7 +963,7 @@ msgstr "Фільтрувати колекції"
 #: application/view/omeka/admin/item-set/show.phtml:17 application/view/omeka/admin/item/browse.phtml:91 application/view/omeka/admin/item/show.phtml:8 application/view/omeka/admin/job/browse.phtml:56
 #: application/view/omeka/admin/job/show.phtml:18 application/view/omeka/admin/media/browse.phtml:105 application/view/omeka/admin/resource-template/browse.phtml:62 application/view/omeka/site-admin/index/index.phtml:57
 msgid "[no owner]"
-msgstr "[без володаря]"
+msgstr "[немає власника]"
 
 #: application/view/common/item-set-selector.phtml:31 application/view/common/property-selector.phtml:33 application/view/common/site-selector.phtml:20
 msgid "More info"
@@ -1008,15 +1008,15 @@ msgstr "Вибрати сторінки"
 #: application/view/common/pagination.phtml:9 application/view/common/sidebar-pagination.phtml:6
 #, php-format
 msgid "of %s"
-msgstr "из %s "
+msgstr "із %s "
 
 #: application/view/common/pagination.phtml:13 application/view/common/sidebar-pagination.phtml:9
 msgid "Previous"
-msgstr "Попередня"
+msgstr "Попередня "
 
 #: application/view/common/pagination.phtml:19 application/view/common/sidebar-pagination.phtml:15 application/view/common/site-page-pagination.phtml:4
 msgid "Next"
-msgstr "Наступна"
+msgstr "Наступна "
 
 #: application/view/common/pagination.phtml:28
 #, php-format
@@ -1067,7 +1067,7 @@ msgstr "Щелкните свойство, чтобы добавить его н
 
 #: application/view/common/property-selector.phtml:12
 msgid "Filter properties"
-msgstr "Властивості фільтра"
+msgstr "Властивості фільтру"
 
 #: application/view/common/query-form.phtml:9 application/view/omeka/admin/query/search-filters.phtml:4
 msgid "[Edit below]"
