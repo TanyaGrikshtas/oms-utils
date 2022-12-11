@@ -3056,7 +3056,7 @@ msgstr "URL відео"
 
 #: application/src/Media/Ingester/Youtube.php:91
 msgid "URL for the video to embed."
-msgstr "URL-адреса відео для вставлення."
+msgstr "URL-адреса відео для додавання."
 
 #: application/src/Media/Ingester/Youtube.php:99
 msgid "Start"
@@ -3068,11 +3068,11 @@ msgstr "Почніть відтворення відео через задану
 
 #: application/src/Media/Ingester/Youtube.php:104
 msgid "End"
-msgstr ""
+msgstr "Закінчення"
 
 #: application/src/Media/Ingester/Youtube.php:105
 msgid "End playing the video at the given number of seconds from the start of the video."
-msgstr ""
+msgstr "Завершіть відтворення відео через задану кількість секунд від початку відео"
 
 #: application/src/Media/Ingester/Url.php:80
 msgid "A URL to the media."
@@ -3084,23 +3084,23 @@ msgstr ""
 
 #: application/src/Media/Ingester/OEmbed.php:41
 msgid "oEmbed"
-msgstr ""
+msgstr "Вставити"
 
 #: application/src/Media/Ingester/OEmbed.php:114
 msgid "oEmbed URL"
-msgstr ""
+msgstr "Вставити URL"
 
 #: application/src/Media/Ingester/OEmbed.php:115
 msgid "URL for the media to embed."
-msgstr ""
+msgstr "URL-адреса для вбудовування медіафайлу."
 
 #: application/src/Form/SettingForm.php:111 application/src/Form/SiteSettingsForm.php:28
 msgid "General"
-msgstr "Общее"
+msgstr "Загальне"
 
 #: application/src/Form/SettingForm.php:120
 msgid "Administrator email"
-msgstr "Электронна пошта адміністратора"
+msgstr "Електронна пошта адміністратора"
 
 #: application/src/Form/SettingForm.php:133 application/src/Form/InstallationForm.php:80
 msgid "Installation title"
@@ -3112,31 +3112,31 @@ msgstr "Часовий пояс"
 
 #: application/src/Form/SettingForm.php:162 application/src/Form/SiteSettingsForm.php:187
 msgid "Results per page"
-msgstr "Результатів на сторінці"
+msgstr "Результати на сторінці"
 
 #: application/src/Form/SettingForm.php:163
 msgid "The maximum number of results per page on browse pages."
-msgstr "Максимальное количество результатов на странице просмотра. "
+msgstr "Максимальна кількість результатів на сторінці перегляду."
 
 #: application/src/Form/SettingForm.php:176
 msgid "Property label information"
-msgstr "Информация метки свойства "
+msgstr "Інформація про етикетку товару"
 
 #: application/src/Form/SettingForm.php:177
 msgid "The additional information that accompanies labels on resource pages."
-msgstr "Дополнительная информация, которая сопровождает метки на страницах ресурсов. "
+msgstr "Додаткова інформація, яка супроводжує позначки на сторінках ресурсів."
 
 #: application/src/Form/SettingForm.php:179
 msgid "None"
-msgstr "Ничего"
+msgstr "Нічого"
 
 #: application/src/Form/SettingForm.php:180
 msgid "Show Vocabulary"
-msgstr "Показать словарь "
+msgstr "Показати словник"
 
 #: application/src/Form/SettingForm.php:181
 msgid "Show Term"
-msgstr "Показать термин"
+msgstr "Показати термін"
 
 #: application/src/Form/SettingForm.php:194
 msgid "Default site"
@@ -3144,67 +3144,67 @@ msgstr "Сайт за замовчуванням"
 
 #: application/src/Form/SettingForm.php:195
 msgid "Select which site should appear when users go to the front page of the installation."
-msgstr "Выберите, какой сайт должен отображаться, когда пользователи переходят на первую страницу установки. "
+msgstr "Виберіть, який сайт повинен відображатися при переході користувачів на головну сторінку інсталяції."
 
 #: application/src/Form/SettingForm.php:200
 msgid "No default (show index of sites)"
-msgstr "Нет по умолчанию (показать индекс сайтов) "
+msgstr "За замовчуванням немає (показувати індекс сайтів)"
 
 #: application/src/Form/SettingForm.php:211 application/src/Form/SiteSettingsForm.php:127 application/src/Form/UserForm.php:132 application/src/Form/InstallationForm.php:112
 msgid "Locale"
-msgstr "Локаль"
+msgstr "Локальність"
 
 #: application/src/Form/SettingForm.php:212 application/src/Form/UserForm.php:133
 msgid "Global locale/language code for all interfaces."
-msgstr "Глобальный код локали / языка для всех интерфейсов. "
+msgstr "Глобальна локальність/мовний код для всіх інтерфейсів."
 
 #: application/src/Form/SettingForm.php:225
 msgid "Enable version notifications"
-msgstr "Включити повідомлення о версіях "
+msgstr "Включити повідомлення про версії"
 
 #: application/src/Form/SettingForm.php:226
 msgid "Enable notifications when a new version of Omeka S, modules, or themes are available."
-msgstr "Включите уведомления, когда доступна новая версия Omeka S, модулей или тем. "
+msgstr "Увімкнути сповіщення про появу нової версії Omeka S, модулів або тем."
 
 #: application/src/Form/SettingForm.php:238 application/src/Form/SiteSettingsForm.php:104
 msgid "Disable JSON-LD embed"
-msgstr "Отключить встраивание JSON-LD "
+msgstr "Відключити вбудовування JSON-LD "
 
 #: application/src/Form/SettingForm.php:239 application/src/Form/SiteSettingsForm.php:105
 msgid "By default, Omeka embeds JSON-LD in resource browse and show pages for the purpose of machine-readable metadata discovery. Check this to disable embedding."
-msgstr "По умолчанию Omeka встраивает JSON-LD в просмотр ресурсов и отображение страниц с целью обнаружения машиночитаемых метаданных. Установите этот флажок, чтобы отключить встраивание. "
+msgstr "За замовчуванням Omeкa вбудовує JSON-LD в перегляд ресурсів і сторінки показу з метою виявлення машинозчитуваних метаданих. Поставте галочку, щоб вимкнути вбудовування."
 
 #: application/src/Form/SettingForm.php:251
 msgid "Default content visibility to Private"
-msgstr "Видимость содержимого по умолчанию в Приватном"
+msgstr "Видимість вмісту за замовчуванням для Приватних"
 
 #: application/src/Form/SettingForm.php:252
 msgid "If checked, all items, item sets and sites newly created will have their visibility set to private by default."
-msgstr "Если этот флажок установлен, для всех вновь созданных объектов, наборов объектов и сайтов по умолчанию будет установлена ​​видимость закрытых. "
+msgstr "Якщо цей прапорець встановлено, то для всіх новостворених елементів, наборів елементів та сайтів за замовчуванням буде встановлено приватну видимість."
 
 #: application/src/Form/SettingForm.php:264
 msgid "Suggested languages for values"
-msgstr "Предлагаемые языки для значений "
+msgstr "Запропоновані мови для значень"
 
 #: application/src/Form/SettingForm.php:265
 msgid "List of languages to facilitate filling of the values in the resource form. List them one by line. The label displayed for a language may be appended with a \"=\"."
-msgstr "Список языков для облегчения заполнения значений в форме ресурса. Перечислите их по очереди. Метка, отображаемая для языка, может быть дополнена знаком «=». "
+msgstr "Список мов для полегшення заповнення значень у формі ресурсу. Перерахуйте їх по одному рядку. Мітка, що відображається для мови, може бути доповнена символом \"=\"."
 
 #: application/src/Form/SettingForm.php:278
 msgid "Media alt text property"
-msgstr ""
+msgstr "Властивість альтернативного тексту медіа"
 
 #: application/src/Form/SettingForm.php:279
 msgid "Media property to use as alt text if no alt text is explicitly set."
-msgstr ""
+msgstr "Властивість медіа для використання в якості альтернативного тексту, якщо альтернативний текст явно не задано."
 
 #: application/src/Form/SettingForm.php:280
 msgid "[None]"
-msgstr ""
+msgstr "[Не задано]"
 
 #: application/src/Form/SettingForm.php:294
 msgid "Index full-text search"
-msgstr "Индексный полнотекстовый поиск "
+msgstr "Індексний повнотекстовий пошук"
 
 #: application/src/Form/SettingForm.php:308
 msgid "Security"
@@ -3212,19 +3212,19 @@ msgstr "Безпека"
 
 #: application/src/Form/SettingForm.php:317
 msgid "Use HTMLPurifier"
-msgstr "Используйте HTMLPurifier "
+msgstr "Використовуйте HTMLPurifier "
 
 #: application/src/Form/SettingForm.php:318
 msgid "Clean up user-entered HTML."
-msgstr "Очистите введенный пользователем HTML. "
+msgstr "Очистити введений користувачем HTML."
 
 #: application/src/Form/SettingForm.php:330
 msgid "Disable file validation"
-msgstr "Отключить проверку файлов "
+msgstr "Відключити перевірку файлів"
 
 #: application/src/Form/SettingForm.php:331
 msgid "Check this to disable file media type and extension validation."
-msgstr "Установите этот флажок, чтобы отключить проверку типа носителя и расширения файла. "
+msgstr "Встановіть цей прапорець, щоб вимкнути перевірку типу носія та розширення файлу."
 
 #: application/src/Form/SettingForm.php:340
 msgid "Allowed media types"
@@ -3232,51 +3232,51 @@ msgstr "Дозволені типи носіїв"
 
 #: application/src/Form/SettingForm.php:341
 msgid "A comma-separated list of allowed media types for file uploads."
-msgstr "Разделенный запятыми список разрешенных типов мультимедиа для загрузки файлов. "
+msgstr "Список дозволених типів носіїв для завантаження файлів, розділених комами."
 
 #: application/src/Form/SettingForm.php:353
 msgid "Allowed file extensions"
-msgstr "Допустимые расширения файлов "
+msgstr "Дозволені розширення файлів"
 
 #: application/src/Form/SettingForm.php:354
 msgid "A comma-separated list of allowed file extensions for file uploads."
-msgstr "Разделенный запятыми список разрешенных расширений файлов для загрузки файлов. "
+msgstr "Список дозволених розширень файлів через кому для завантаження."
 
 #: application/src/Form/SettingForm.php:368
 msgid "reCAPTCHA site key"
-msgstr "ключ сайта reCAPTCHA "
+msgstr "ключ сайту reCAPTCHA "
 
 #: application/src/Form/SettingForm.php:379
 msgid "reCAPTCHA secret key"
-msgstr "секретный ключ reCAPTCHA "
+msgstr "секретний ключ reCAPTCHA "
 
 #: application/src/Form/ResourceForm.php:30 application/src/Form/ResourceBatchUpdateForm.php:70 application/src/Form/UserForm.php:147
 msgid "Select a template"
-msgstr "Выберить шаблон"
+msgstr "Виберіть шаблон"
 
 #: application/src/Form/ResourceForm.php:34
 msgid "Resource template"
-msgstr ""
+msgstr "Шаблон ресурсу"
 
 #: application/src/Form/ResourceForm.php:35
 msgid "A pre-defined template for resource creation."
-msgstr ""
+msgstr "Заздалегідь визначений шаблон для створення ресурсу."
 
 #: application/src/Form/ResourceForm.php:55 application/src/Form/ResourceBatchUpdateForm.php:93
 msgid "Select a class"
-msgstr "Вибрати класс"
+msgstr "Вибрати клас"
 
 #: application/src/Form/ResourceForm.php:59
 msgid "A type for the resource. Different types have different default properties attached to them."
-msgstr ""
+msgstr "Тип для ресурсу. Різні типи мають різні властивості за замовчуванням."
 
 #: application/src/Form/ResourceForm.php:69
 msgid "Omeka S automatically selects a thumbnail from among attached media for a resource. You may use an image of your choice instead by choosing an asset here."
-msgstr ""
+msgstr "Omeka S автоматично вибирає мініатюру з прикріплених медіафайлів для ресурсу. Ви можете використовувати зображення на свій вибір, вибравши ресурс тут."
 
 #: application/src/Form/VocabularyForm.php:23
 msgid "Basic info"
-msgstr "Базовая информация "
+msgstr "Основна інформація "
 
 #: application/src/Form/VocabularyForm.php:30
 msgid "File"
@@ -3284,51 +3284,51 @@ msgstr "Файл"
 
 #: application/src/Form/VocabularyForm.php:46
 msgid "Enter a human-readable title of the vocabulary."
-msgstr "Введите человекочитаемый заголовок словаря. "
+msgstr "Введіть зрозумілу для користувача назву словника."
 
 #: application/src/Form/VocabularyForm.php:58
 msgid "Enter a human-readable description of the vocabulary."
-msgstr "Введите человекочитаемое описание словаря. "
+msgstr "Введіть зрозумілий опис словника."
 
 #: application/src/Form/VocabularyForm.php:69
 msgid "Namespace URI"
-msgstr ""
+msgstr "Простір імен URI"
 
 #: application/src/Form/VocabularyForm.php:70
 msgid "Enter the unique namespace URI used to identify the classes and properties of the vocabulary."
-msgstr ""
+msgstr "Введіть унікальний URI простору імен, який використовується для ідентифікації класів та властивостей словника."
 
 #: application/src/Form/VocabularyForm.php:81
 msgid "Namespace prefix"
-msgstr ""
+msgstr "Префікс простору імен"
 
 #: application/src/Form/VocabularyForm.php:82
 msgid "Enter a concise vocabulary identifier used as a shorthand for the namespace URI."
-msgstr ""
+msgstr "Введіть стислий ідентифікатор словника, який використовується як скорочення для URI простору імен."
 
 #: application/src/Form/VocabularyForm.php:94
 msgid "Vocabulary file"
-msgstr ""
+msgstr "Словниковий файл"
 
 #: application/src/Form/VocabularyForm.php:95
 msgid "Choose a RDF vocabulary file. You must choose a file or enter a URL below."
-msgstr ""
+msgstr "Виберіть файл словника у форматі RDF. Ви повинні вибрати файл або ввести URL-адресу нижче."
 
 #: application/src/Form/VocabularyForm.php:105
 msgid "Vocabulary URL"
-msgstr ""
+msgstr "URL-адреса словника"
 
 #: application/src/Form/VocabularyForm.php:106
 msgid "Enter a RDF vocabulary URL. You must enter a URL or choose a file above."
-msgstr ""
+msgstr "Введіть URL-адресу словника RDF. Ви повинні ввести URL або вибрати файл вище."
 
 #: application/src/Form/VocabularyForm.php:116
 msgid "File format"
-msgstr "формат"
+msgstr "Формат файлу"
 
 #: application/src/Form/VocabularyForm.php:118
 msgid "[Autodetect]"
-msgstr ""
+msgstr "[Автовизначення]"
 
 #: application/src/Form/VocabularyForm.php:119
 msgid "JSON-LD (.jsonld)"
@@ -3356,31 +3356,31 @@ msgstr ""
 
 #: application/src/Form/VocabularyForm.php:136
 msgid "Enter the preferred language of the labels and comments using an <a target=\"_blank\" href=\"https://www.w3.org/International/articles/language-tags/\">IETF language tag</a>. Defaults to the first available."
-msgstr ""
+msgstr "Введіть бажану мову міток і коментарів за допомогою <a target=\"_blank\" href=\"https://www.w3.org/International/articles/language-tags/\">мовного тегу IETF</ a>. За замовчуванням використовується перший доступний."
 
 #: application/src/Form/VocabularyForm.php:147
 msgid "Label property"
-msgstr ""
+msgstr "Властивість мітки"
 
 #: application/src/Form/VocabularyForm.php:148
 msgid "Enter the label property. This is typically only needed if the vocabulary uses an unconventional property for labels. Please use the full property URI enclosed in angle brackets."
-msgstr ""
+msgstr "Введіть властивість мітки. Зазвичай це потрібно лише в тому випадку, якщо словник використовує нетрадиційну властивість для міток. Будь ласка, використовуйте повний URI властивості, укладений у кутові дужки."
 
 #: application/src/Form/VocabularyForm.php:158
 msgid "Comment property"
-msgstr ""
+msgstr "Властивість коментування"
 
 #: application/src/Form/VocabularyForm.php:159
 msgid "Enter the comment property. This is typically only needed if the vocabulary uses an unconventional property for comments. Please use the full property URI enclosed in angle brackets."
-msgstr ""
+msgstr "Введіть властивість коментаря. Зазвичай це потрібно лише в тому випадку, якщо словник використовує нетрадиційну властивість для коментарів. Будь ласка, використовуйте повний URI властивості, укладений у кутові дужки."
 
 #: application/src/Form/SiteForm.php:54
 msgid "Choose or upload a thumbnail to display with site."
-msgstr ""
+msgstr "Виберіть або завантажте мініатюру для відображення на сайті."
 
 #: application/src/Form/ResourceTemplateForm.php:27
 msgid "Suggested class"
-msgstr "Предлагаемый класс "
+msgstr "Запропонований клас"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:34
 msgid "Set visibility"
@@ -3393,7 +3393,7 @@ msgstr "[Без змін]"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:51
 msgid "Set openness"
-msgstr "Установите открытость "
+msgstr "Встановити відкритість набору"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:53
 msgid "Open"
@@ -3405,7 +3405,7 @@ msgstr "Зачинений"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:74
 msgid "Set template"
-msgstr "Выберите шаблон "
+msgstr "Встановити шаблон "
 
 #: application/src/Form/ResourceBatchUpdateForm.php:76
 msgid "[Unset template]"
@@ -3413,47 +3413,47 @@ msgstr "[Відмінити шаблон]"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:96
 msgid "Set class"
-msgstr "Установить класс "
+msgstr "Встановити клас"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:97
 msgid "[Unset class]"
-msgstr "[Не устанавливать класс]"
+msgstr "[Не встановлювати клас]"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:111 application/src/Form/ResourceBatchUpdateForm.php:125
 msgid "Select item sets"
-msgstr "Виберить набори об'єктів"
+msgstr "Виберати колекції"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:114
 msgid "Add to item sets"
-msgstr "Додати до наборів предметів"
+msgstr "Додати до колекції"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:128
 msgid "Remove from item sets"
-msgstr "Удалить из наборов объектов"
+msgstr "Видалити з колекції"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:139 application/src/Form/ResourceBatchUpdateForm.php:153 application/src/Form/UserForm.php:170
 msgid "Select sites"
-msgstr "Выбрати сайти"
+msgstr "Вибрати сайти"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:142
 msgid "Add to sites"
-msgstr ""
+msgstr "Додати на сайти"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:156
 msgid "Remove from sites"
-msgstr ""
+msgstr "Видалити з сайтів"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:166
 msgid "Clear language"
-msgstr "Очистить язык "
+msgstr "Зрозуміла мова"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:190 application/view/common/property-form-batch-edit.phtml:63
 msgid "Select properties"
-msgstr "Вибрати свойства "
+msgstr "Вибрати властивості"
 
 #: application/src/Form/ResourceBatchUpdateForm.php:193
 msgid "Clear property values"
-msgstr "Очистить значения свойств "
+msgstr "Очистити значення властивостей"
 
 #: application/src/Form/ModuleStateChangeForm.php:37
 msgid "Install"
@@ -3469,51 +3469,51 @@ msgstr "Обновити"
 
 #: application/src/Form/Initializer/Csrf.php:35
 msgid "Invalid or missing CSRF token"
-msgstr "Неверный или отсутствующий токен CSRF "
+msgstr "Недійсний або відсутній токен CSRF"
 
 #: application/src/Form/Element/PasswordConfirm.php:68
 msgid "Confirm password"
-msgstr ""
+msgstr "Підтвердити пароль"
 
 #: application/src/Form/Element/PasswordConfirm.php:87
 msgid "The password is invalid"
-msgstr ""
+msgstr "Пароль невірний"
 
 #: application/src/Form/Element/PasswordConfirm.php:102
 msgid "The passwords did not match"
-msgstr ""
+msgstr "Паролі не співпадають"
 
 #: application/src/Form/Element/Recaptcha.php:99
 msgid "You must verify that you are human by completing the CAPTCHA."
-msgstr ""
+msgstr "Ви повинні підтвердити, що ви людина, заповнивши CAPTCHA."
 
 #: application/src/Form/Element/Recaptcha.php:108
 msgid "Could not verify that you are a human."
-msgstr ""
+msgstr "Не змогли переконатися, що ви людина."
 
 #: application/src/Form/Element/ColorPicker.php:10
 msgid "three- or six-digit hexadecimal color, or \"transparent\""
-msgstr ""
+msgstr "три- або шестизначний шістнадцятковий колір, або \"прозорий\""
 
 #: application/src/Form/Element/ColorPicker.php:29
 msgid "Invalid color format"
-msgstr ""
+msgstr "Неправильний формат кольору"
 
 #: application/src/Form/SiteSettingsForm.php:38
 msgid "Auto-assign new items"
-msgstr "Автоматически назначать новые объекты "
+msgstr "Автопризначення нових видань"
 
 #: application/src/Form/SiteSettingsForm.php:39
 msgid "Select this if you want new items to be automatically assigned to this site. Note that item owners may unassign their items at any time."
-msgstr "Выберите это, если вы хотите, чтобы новые объекты автоматически назначались этому сайту. Обратите внимание, что владельцы объектов могут отменить назначение своих объектов в любое время. "
+msgstr "Виберіть цю опцію, якщо ви хочете, щоб нові видання автоматично призначалися на цей сайт. Зверніть увагу, що власники видань можуть відкликати свої видання в будь-який час."
 
 #: application/src/Form/SiteSettingsForm.php:50
 msgid "Attachment link type"
-msgstr "Тип ссылки вложения "
+msgstr "Тип посилання на вкладення"
 
 #: application/src/Form/SiteSettingsForm.php:52
 msgid "Item page"
-msgstr "Сторінка об'єкта"
+msgstr "Сторінка видання"
 
 #: application/src/Form/SiteSettingsForm.php:53
 msgid "Media page"
@@ -3521,23 +3521,23 @@ msgstr "Сторінка медіа"
 
 #: application/src/Form/SiteSettingsForm.php:54
 msgid "Direct link to file"
-msgstr "Прямая ссылка на файл "
+msgstr "Пряме посилання на файл"
 
 #: application/src/Form/SiteSettingsForm.php:66
 msgid "Embed media on item pages"
-msgstr "Встраивать медиафайлы на страницы объекта "
+msgstr "Вбудовувати медіафайли на сторінки видань"
 
 #: application/src/Form/SiteSettingsForm.php:77
 msgid "Show page pagination"
-msgstr "Показать разбивку на страницы "
+msgstr "Показувати нумерацію сторінок"
 
 #: application/src/Form/SiteSettingsForm.php:78
 msgid "Show pagination that helps users follow a linear narrative through a site."
-msgstr "Покажите разбиение на страницы, которое помогает пользователям следовать линейному повествованию на сайте. "
+msgstr "Показувати пагінацію, яка допомагає користувачам слідувати за лінійною розповіддю на сайті."
 
 #: application/src/Form/SiteSettingsForm.php:89
 msgid "Show user bar on public views"
-msgstr "Показывать панель пользователя в публичном просмотре"
+msgstr "Показати панель користувача на публічних переглядах"
 
 #: application/src/Form/SiteSettingsForm.php:91
 msgid "Never"
@@ -3553,51 +3553,51 @@ msgstr "Завжди"
 
 #: application/src/Form/SiteSettingsForm.php:128
 msgid "Locale/language code for this site. Leave blank to use the global locale setting."
-msgstr "Код места / языка для этого сайта. Оставьте поле пустым, чтобы использовать глобальную настройку локали. "
+msgstr "Код локалі/мови для цього сайту. Залиште пустим, щоб використовувати глобальні налаштування локалі."
 
 #: application/src/Form/SiteSettingsForm.php:141
 msgid "Filter values based on site locale"
-msgstr ""
+msgstr "Фільтр значень на основі локалі сайту"
 
 #: application/src/Form/SiteSettingsForm.php:142
 msgid "Show only values matching the site language setting and values without locale ID."
-msgstr ""
+msgstr "Відображати тільки значення, що відповідають налаштуванню мови сайту, і значення без ідентифікатора місцевості."
 
 #: application/src/Form/SiteSettingsForm.php:154
 msgid "Show language labels for values"
-msgstr ""
+msgstr "Показувати мовні мітки для значень"
 
 #: application/src/Form/SiteSettingsForm.php:155
 msgid "Show a label indicating the language of each value on show pages."
-msgstr ""
+msgstr "Показувати мітку із зазначенням мови кожного значення на сторінках показу."
 
 #: application/src/Form/SiteSettingsForm.php:176
 msgid "Restrict browse to attached items"
-msgstr "Ограничить просмотр прикрепленными элементами "
+msgstr "Обмежити перегляд прикріпленими виданнями"
 
 #: application/src/Form/SiteSettingsForm.php:188
 msgid "The maximum number of results per page on browse pages. Leave blank to use the global setting."
-msgstr "Максимальное количество результатов на странице просмотра. Оставьте поле пустым, чтобы использовать глобальную настройку. "
+msgstr "Максимальна кількість результатів на сторінці на сторінках перегляду. Залиште поле порожнім, щоб використовувати глобальне налаштування."
 
 #: application/src/Form/SiteSettingsForm.php:194
 msgid "Use global setting"
-msgstr "Использовать глобальные настройки "
+msgstr "Використовувати глобальні налаштування"
 
 #: application/src/Form/SiteSettingsForm.php:202
 msgid "Browse heading property"
-msgstr "Просмотреть свойство заголовка "
+msgstr "Властивість заголовка перегляду"
 
 #: application/src/Form/SiteSettingsForm.php:203
 msgid "Use this property for the heading of each resource on a browse page. Keep unselected to use the default title property of each resource."
-msgstr "Используйте это свойство для заголовка каждого ресурса на странице просмотра. Не выбирайте, чтобы использовать свойство заголовка по умолчанию для каждого ресурса. "
+msgstr "Використовувати цю властивість для заголовка кожного ресурсу на сторінці перегляду. Не позначайте цей параметр, щоб використовувати властивість заголовка за замовчуванням для кожного ресурсу."
 
 #: application/src/Form/SiteSettingsForm.php:211 application/src/Form/SiteSettingsForm.php:228
 msgid "Select a property"
-msgstr "Выберите свойство "
+msgstr "Виберіть властивість"
 
 #: application/src/Form/SiteSettingsForm.php:219
 msgid "Browse body property"
-msgstr "Просмотреть свойство тела "
+msgstr "Перегляньте властивості"
 
 #: application/src/Form/SiteSettingsForm.php:220
 msgid "Use this property for the body of each resource on a browse page. Keep unselected to use the default description property of each resource."
@@ -3609,7 +3609,7 @@ msgstr "Показати"
 
 #: application/src/Form/SiteSettingsForm.php:245
 msgid "Show attached pages"
-msgstr "Показать прикрепленные страницы "
+msgstr "Показувати прикріплені сторінки"
 
 #: application/src/Form/SiteSettingsForm.php:246
 msgid "Show site pages to which an item is attached on the public item show page."
@@ -3617,19 +3617,19 @@ msgstr "Показать страницы сайта, к которым прик
 
 #: application/src/Form/SiteSettingsForm.php:257
 msgid "Show value annotations"
-msgstr ""
+msgstr "Показувати анотації значень"
 
 #: application/src/Form/SiteSettingsForm.php:258
 msgid "Show annotations that are set to a value, if any."
-msgstr ""
+msgstr "Показати анотації, яким встановлено значення, якщо такі є."
 
 #: application/src/Form/SiteSettingsForm.php:280
 msgid "Search type"
-msgstr "Искать тип"
+msgstr "Тип пошуку"
 
 #: application/src/Form/SiteSettingsForm.php:281
 msgid "Select the type of search the main search field will perform"
-msgstr "Выберите тип поиска, который будет выполнять основное поле поиска. "
+msgstr "Виберіть тип пошуку, який буде виконувати основне поле пошуку"
 
 #: application/src/Form/SiteSettingsForm.php:283
 msgid "This site"
@@ -3645,7 +3645,7 @@ msgstr "Пошук ресурсів"
 
 #: application/src/Form/SiteSettingsForm.php:302
 msgid "Customize which types of resources will be searchable in the main search field."
-msgstr "Настройте, какие типы ресурсов будут доступны для поиска в основном поле поиска. "
+msgstr "Налаштуйте, які типи ресурсів будуть доступні для пошуку в основному полі пошуку."
 
 #: application/src/Form/SiteSettingsForm.php:315
 msgid "Templates"
@@ -3653,15 +3653,15 @@ msgstr "Шаблони"
 
 #: application/src/Form/SiteSettingsForm.php:316
 msgid "Select which templates to apply to the advanced search form."
-msgstr "Выберите, какие шаблоны применить к форме расширенного поиска. "
+msgstr "Виберіть, які шаблони застосовувати до форми розширеного пошуку."
 
 #: application/src/Form/SiteSettingsForm.php:321
 msgid "Select templates"
-msgstr "Выбрать шаблоны "
+msgstr "Вибрати шаблони"
 
 #: application/src/Form/SiteSettingsForm.php:329
 msgid "Restrict to templates"
-msgstr "Ограничить шаблонами "
+msgstr "Обмежити шаблонами"
 
 #: application/src/Form/SiteSettingsForm.php:330
 msgid "Restrict search results to resources of the selected templates."
@@ -3673,19 +3673,19 @@ msgstr "Вибрати роль… "
 
 #: application/src/Form/UserBatchUpdateForm.php:30
 msgid "Set role"
-msgstr "Назначить роль… "
+msgstr "Встановити роль"
 
 #: application/src/Form/UserBatchUpdateForm.php:39
 msgid "Set activity"
-msgstr "Установить активность "
+msgstr "Встановити активність"
 
 #: application/src/Form/UserBatchUpdateForm.php:55 application/src/Form/UserBatchUpdateForm.php:72
 msgid "Select sites…"
-msgstr "Выбрать сайты… "
+msgstr "Вибрати сайти..."
 
 #: application/src/Form/UserBatchUpdateForm.php:59
 msgid "Remove from site permission"
-msgstr "Удалить из разрешений сайта"
+msgstr "Видалити з дозволу сайту"
 
 #: application/src/Form/UserBatchUpdateForm.php:61 application/src/Form/UserBatchUpdateForm.php:78
 msgid "[All sites]"
@@ -3693,19 +3693,19 @@ msgstr "[Усі сайти]"
 
 #: application/src/Form/UserBatchUpdateForm.php:76
 msgid "Add to site permission"
-msgstr "Додати до налаштувань сайта"
+msgstr "Додати до налаштувань сайту"
 
 #: application/src/Form/UserBatchUpdateForm.php:87
 msgid "Select permission…"
-msgstr "Выбрать разрешение… "
+msgstr "Вибрати дозвіл..."
 
 #: application/src/Form/UserBatchUpdateForm.php:91
 msgid "Add to site permission as"
-msgstr "Добавить разрешение на сайт как "
+msgstr "Додати до дозволу сайту як"
 
 #: application/src/Form/SiteResourcesForm.php:15
 msgid "Manage current items"
-msgstr "Управлять текущими элементами "
+msgstr "Керування поточними виданнями"
 
 #: application/src/Form/SiteResourcesForm.php:17
 msgid "Do nothing"
@@ -3713,11 +3713,11 @@ msgstr "Нічого не робити"
 
 #: application/src/Form/SiteResourcesForm.php:18
 msgid "Add - keep existing items and assign items from a new search query"
-msgstr ""
+msgstr "Додати - зберегти існуючі видання і призначити видання з нового пошукового запиту"
 
 #: application/src/Form/SiteResourcesForm.php:19
 msgid "Replace - unassign all items and assign items from a new search query"
-msgstr ""
+msgstr "Замінити - зняти призначення з усіх видань і призначити видання з нового пошукового запиту"
 
 #: application/src/Form/SiteResourcesForm.php:20
 msgid "Remove - unassign items from a new search query"
@@ -3725,23 +3725,23 @@ msgstr ""
 
 #: application/src/Form/SiteResourcesForm.php:21
 msgid "Remove all - unassign all items"
-msgstr "Удалить все - отменить назначение всех элементов "
+msgstr "Видалити всі - прибрати всі видання"
 
 #: application/src/Form/ResourceTemplateImportForm.php:14
 msgid "Resource template file"
-msgstr "Файл шаблона ресурса "
+msgstr "Файл шаблону ресурсу"
 
 #: application/src/Form/UserForm.php:151
 msgid "Default resource template"
-msgstr "Шаблон ресурса по умолчанию "
+msgstr "Шаблон ресурсу за замовчуванням"
 
 #: application/src/Form/UserForm.php:175
 msgid "Default sites for items"
-msgstr "Сайты по умолчанию для объектов"
+msgstr "Сайти за замовчуванням для видань"
 
 #: application/src/Form/UserForm.php:186
 msgid "Current password"
-msgstr "Текущий пароль "
+msgstr "Поточний пароль "
 
 #: application/src/Form/UserForm.php:198
 msgid "New password"
@@ -3749,15 +3749,15 @@ msgstr "Новий пароль"
 
 #: application/src/Form/UserForm.php:199
 msgid "Confirm new password"
-msgstr "Подтвердите новый пароль "
+msgstr "Підтвердіть новий пароль"
 
 #: application/src/Form/UserForm.php:208
 msgid "New key label"
-msgstr "Новая метка ключа "
+msgstr "Нова мітка ключа"
 
 #: application/src/Form/InstallationForm.php:19
 msgid "Create the first user"
-msgstr "Создайте первого пользователя "
+msgstr "Створіть першого користувача"
 
 #: application/src/Form/InstallationForm.php:52
 msgid "Confirm email"
@@ -3765,15 +3765,15 @@ msgstr "Підтвердити email"
 
 #: application/src/Form/InstallationForm.php:128
 msgid "The emails did not match"
-msgstr "Адреса электронной почты не совпадают "
+msgstr "Адреси електронної пошти не співпадають"
 
 #: application/src/Form/ConfirmForm.php:17
 msgid "Confirm"
-msgstr "Подтвердить"
+msgstr "Підтвердити"
 
 #: application/src/Form/SitePageForm.php:39
 msgid "Add to navigation"
-msgstr ""
+msgstr "Додати до навігації"
 
 #: application/src/Service/CliFactory.php:31
 msgid "Neither \"proc_open()\" nor \"exec()\" are available."
@@ -3781,23 +3781,23 @@ msgstr ""
 
 #: application/src/View/Helper/SiteSelect.php:39
 msgid "Select site…"
-msgstr ""
+msgstr "Вибрати сайт..."
 
 #: application/src/View/Helper/ResourceClassSelect.php:39
 msgid "Select class…"
-msgstr ""
+msgstr "Вибрати клас..."
 
 #: application/src/View/Helper/BlockShowTitleSelect.php:24
 msgid "item title"
-msgstr ""
+msgstr "назва видання"
 
 #: application/src/View/Helper/BlockShowTitleSelect.php:25
 msgid "media title"
-msgstr ""
+msgstr "назва медіа"
 
 #: application/src/View/Helper/BlockShowTitleSelect.php:26
 msgid "no title"
-msgstr ""
+msgstr "без назви"
 
 #: application/src/View/Helper/ResourceTemplateSelect.php:39
 msgid "Select template…"
@@ -3813,11 +3813,11 @@ msgstr "Вибрати користувача"
 
 #: application/src/View/Helper/ItemSetSelect.php:39
 msgid "Select item set…"
-msgstr ""
+msgstr "Вибрати колекцію"
 
 #: application/src/Controller/InstallController.php:52
 msgid "Installation successful. Please log in."
-msgstr ""
+msgstr "Інсталяція пройшла успішно. Будь ласка, увійдіть в систему."
 
 #: application/src/Controller/InstallController.php:56
 msgid "There were errors during installation."
@@ -3837,7 +3837,7 @@ msgstr ""
 
 #: application/src/Controller/SiteAdmin/IndexController.php:198
 msgid "Homepage"
-msgstr ""
+msgstr "Домашня сторінка"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:204
 msgid "First page in navigation"
@@ -3849,15 +3849,15 @@ msgstr ""
 
 #: application/src/Controller/SiteAdmin/IndexController.php:254
 msgid "Item assignment in progress. To see the new item count, refresh the page."
-msgstr ""
+msgstr "Виконується призначення предмета. Щоб побачити кількість нових видань, оновіть сторінку."
 
 #: application/src/Controller/SiteAdmin/IndexController.php:258
 msgid "Site resources successfully updated"
-msgstr ""
+msgstr "Ресурси сайту успішно оновлені"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:301
 msgid "User permissions successfully updated"
-msgstr ""
+msgstr "Дозволи користувачів успішно оновлено"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:333
 msgid "Site theme successfully updated"
@@ -3865,15 +3865,15 @@ msgstr "Тему  сайта успішно оновлено"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:403
 msgid "Theme settings successfully updated"
-msgstr ""
+msgstr "Налаштування теми успішно оновлено"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:420
 msgid "Site successfully deleted"
-msgstr "Сайт успешно удален"
+msgstr "Сайт успішно видалено"
 
 #: application/src/Controller/SiteAdmin/IndexController.php:443
 msgid "site"
-msgstr ""
+msgstr "сайт"
 
 #: application/src/Controller/SiteAdmin/PageController.php:29
 msgid "Page successfully updated"
@@ -3881,7 +3881,7 @@ msgstr "Сторінка успішно обновлена"
 
 #: application/src/Controller/SiteAdmin/PageController.php:107
 msgid "page"
-msgstr "Сторінка."
+msgstr "сторінка"
 
 #: application/src/Controller/SiteAdmin/PageController.php:124
 msgid "Page successfully deleted"
@@ -3889,7 +3889,7 @@ msgstr "Сторінка успішно видалена"
 
 #: application/src/Controller/LoginController.php:56
 msgid "Successfully logged in"
-msgstr ""
+msgstr "Успішно виконано вхід"
 
 #: application/src/Controller/LoginController.php:65
 msgid "Email or password is invalid"
@@ -5516,196 +5516,196 @@ msgstr ""
 
 #. Property label for Bibliographic Ontology:editor
 msgid "editor"
-msgstr ""
+msgstr "редактор"
 
 #. Property comment for Bibliographic Ontology:editor
 msgid "A person having managerial and sometimes policy-making responsibility for the editorial part of a publishing firm or of a newspaper, magazine, or other publication."
-msgstr ""
+msgstr "Особа, яка несе управлінську, а іноді й політичну відповідальність за редакційну частину видавничої фірми або газети, журналу чи іншого видання."
 
 #. Property label for Bibliographic Ontology:editorList
 msgid "list of editors"
-msgstr ""
+msgstr "список редакторів"
 
 #. Property comment for Bibliographic Ontology:editorList
 msgid "An ordered list of editors. Normally, this list is seen as a priority list that order editors by importance."
-msgstr ""
+msgstr "Упорядкований список редакторів. Зазвичай цей список розглядається як список пріоритетів, упорядкований редакторами за важливістю."
 
 #. Property label for Bibliographic Ontology:interviewee
 msgid "interviewee"
-msgstr ""
+msgstr "співрозмовник"
 
 #. Property comment for Bibliographic Ontology:interviewee
 msgid "An agent that is interviewed by another agent."
-msgstr ""
+msgstr "Особа, яку опитує інша особа."
 
 #. Property label for Bibliographic Ontology:interviewer
 msgid "interviewer"
-msgstr ""
+msgstr "інтерв'юер"
 
 #. Property comment for Bibliographic Ontology:interviewer
 msgid "An agent that interview another agent."
-msgstr ""
+msgstr "Особа, яка бере інтерв'ю в іншої особи."
 
 #. Property label for Bibliographic Ontology:issuer
 msgid "issuer"
-msgstr ""
+msgstr "емітент"
 
 #. Property comment for Bibliographic Ontology:issuer
 msgid "An entity responsible for issuing often informally published documents such as press releases, reports, etc."
-msgstr ""
+msgstr "Суб'єкт, відповідальний за випуск часто неофіційно опублікованих документів, таких як прес-релізи, звіти тощо."
 
 #. Property label for Bibliographic Ontology:organizer
 msgid "organizer"
-msgstr ""
+msgstr "організатор"
 
 #. Property comment for Bibliographic Ontology:organizer
 msgid "The organizer of an event; includes conference organizers, but also government agencies or other bodies that are responsible for conducting hearings."
-msgstr ""
+msgstr "Організатор події; включає організаторів конференції, а також державні установи або інші органи, які відповідають за проведення слухань."
 
 #. Property label for Bibliographic Ontology:owner
 msgid "owner"
-msgstr "володар"
+msgstr "власник"
 
 #. Property comment for Bibliographic Ontology:owner
 msgid "Owner of a document or a collection of documents."
-msgstr ""
+msgstr "Власник документа або колекції документів."
 
 #. Property label for Bibliographic Ontology:performer
 msgid "performer"
-msgstr ""
+msgstr "виконавець"
 
 #. Property label for Bibliographic Ontology:presentedAt
 msgid "presented at"
-msgstr ""
+msgstr "представлений на"
 
 #. Property comment for Bibliographic Ontology:presentedAt
 msgid "Relates a document to an event; for example, a paper to a conference."
-msgstr ""
+msgstr "Пов'язує документ з подією, наприклад, документ з конференцією."
 
 #. Property label for Bibliographic Ontology:presents
 msgid "presents"
-msgstr ""
+msgstr "презентує"
 
 #. Property comment for Bibliographic Ontology:presents
 msgid "Relates an event to associated documents; for example, conference to a paper."
-msgstr ""
+msgstr "Пов'язує подію з відповідними документами; наприклад, конференцію з документом."
 
 #. Property label for Bibliographic Ontology:producer
 msgid "producer"
-msgstr ""
+msgstr "виробник"
 
 #. Property comment for Bibliographic Ontology:producer
 msgid "Producer of a document or a collection of documents."
-msgstr ""
+msgstr "Виробник документа або збірника документів."
 
 #. Property label for Bibliographic Ontology:recipient
 msgid "recipient"
-msgstr ""
+msgstr "одержувач"
 
 #. Property comment for Bibliographic Ontology:recipient
 msgid "An agent that receives a communication document."
-msgstr ""
+msgstr "Агент, який отримує комунікаційний документ."
 
 #. Property label for Bibliographic Ontology:reproducedIn
 msgid "reproducedIn"
-msgstr ""
+msgstr "відтворений в"
 
 #. Property comment for Bibliographic Ontology:reproducedIn
 msgid "The resource in which another resource is reproduced."
-msgstr ""
+msgstr "Ресурс, в якому відтворюється інший ресурс"
 
 #. Property label for Bibliographic Ontology:reversedBy
 msgid "reversedBy"
-msgstr ""
+msgstr "скасовано"
 
 #. Property comment for Bibliographic Ontology:reversedBy
 msgid "A legal decision that reverses a ruling."
-msgstr ""
+msgstr "Судове рішення, яке скасовує постанову."
 
 #. Property label for Bibliographic Ontology:reviewOf
 msgid "review of"
-msgstr ""
+msgstr "рецензія на"
 
 #. Property comment for Bibliographic Ontology:reviewOf
 msgid "Relates a review document to a reviewed thing (resource, item, etc.)."
-msgstr ""
+msgstr "Відношення рецензованого документа до рецензованого об'єкта (ресурсу, предмета тощо)."
 
 #. Property label for Bibliographic Ontology:status
 #. Property label for Friend of a Friend:status
 msgid "status"
-msgstr ""
+msgstr "статус"
 
 #. Property comment for Bibliographic Ontology:status
 msgid "The publication status of (typically academic) content."
-msgstr ""
+msgstr "Статус публікації (зазвичай академічного) контенту."
 
 #. Property label for Bibliographic Ontology:subsequentLegalDecision
 msgid "subsequentLegalDecision"
-msgstr ""
+msgstr "наступне судове рішення"
 
 #. Property comment for Bibliographic Ontology:subsequentLegalDecision
 msgid "A legal decision on appeal that takes action on a case (affirming it, reversing it, etc.)."
-msgstr ""
+msgstr "Судове рішення в апеляційній інстанції, яким приймається рішення у справі (ухвалюється, скасовується тощо)."
 
 #. Property label for Bibliographic Ontology:transcriptOf
 msgid "transcript of"
-msgstr ""
+msgstr "стенограма"
 
 #. Property comment for Bibliographic Ontology:transcriptOf
 msgid "Relates a document to some transcribed original."
-msgstr ""
+msgstr "Пов'язує документ з деяким транскрибованим оригіналом."
 
 #. Property label for Bibliographic Ontology:translationOf
 msgid "translation of"
-msgstr ""
+msgstr "переклад"
 
 #. Property comment for Bibliographic Ontology:translationOf
 msgid "Relates a translated document to the original document."
-msgstr ""
+msgstr "Пов'язує перекладений документ з оригінальним документом."
 
 #. Property label for Bibliographic Ontology:translator
 msgid "translator"
-msgstr ""
+msgstr "перекладач"
 
 #. Property comment for Bibliographic Ontology:translator
 msgid "A person who translates written document from one language to another."
-msgstr ""
+msgstr "Особа, яка здійснює переклад письмового документа з однієї мови на іншу."
 
 #. Property label for Bibliographic Ontology:abstract
 msgid "abstract"
-msgstr ""
+msgstr "реферат чи анотація"
 
 #. Property label for Bibliographic Ontology:argued
 msgid "date argued"
-msgstr ""
+msgstr "дата розгляду справи"
 
 #. Property comment for Bibliographic Ontology:argued
 msgid "The date on which a legal case is argued before a court. Date is of format xsd:date"
-msgstr ""
+msgstr "Дата, на яку юридична справа розглядається в суді. Дата має формат xsd:date"
 
 #. Property label for Bibliographic Ontology:asin
 msgid "asin"
-msgstr ""
+msgstr "а саме"
 
 #. Property label for Bibliographic Ontology:chapter
 msgid "chapter"
-msgstr ""
+msgstr "розділ"
 
 #. Property comment for Bibliographic Ontology:chapter
 msgid "An chapter number"
-msgstr ""
+msgstr "Номер розділу"
 
 #. Property label for Bibliographic Ontology:coden
 msgid "coden"
-msgstr ""
+msgstr "код"
 
 #. Property label for Bibliographic Ontology:content
 msgid "content"
-msgstr ""
+msgstr "зміст"
 
 #. Property comment for Bibliographic Ontology:content
 msgid "This property is for a plain-text rendering of the content of a Document. While the plain-text content of an entire document could be described by this property."
-msgstr ""
+msgstr "Ця властивість призначена для простого текстового відображення вмісту документа. Хоча за допомогою цієї властивості можна описати текстовий вміст цілого документа."
 
 #. Property label for Bibliographic Ontology:doi
 msgid "doi"
@@ -5717,11 +5717,11 @@ msgstr ""
 
 #. Property label for Bibliographic Ontology:edition
 msgid "edition"
-msgstr ""
+msgstr "редакція"
 
 #. Property comment for Bibliographic Ontology:edition
 msgid "The name defining a special edition of a document. Normally its a literal value composed of a version number and words."
-msgstr ""
+msgstr "Назва, що визначає спеціальне видання документа. Зазвичай це буквене значення, що складається з номера версії та слів."
 
 #. Property label for Bibliographic Ontology:eissn
 msgid "eissn"
@@ -5733,11 +5733,11 @@ msgstr ""
 
 #. Property label for Bibliographic Ontology:handle
 msgid "handle"
-msgstr ""
+msgstr "ручка"
 
 #. Property label for Bibliographic Ontology:identifier
 msgid "identifier"
-msgstr ""
+msgstr "ідентифікатор/шифр"
 
 #. Property label for Bibliographic Ontology:isbn
 msgid "isbn"
@@ -5757,11 +5757,11 @@ msgstr ""
 
 #. Property label for Bibliographic Ontology:issue
 msgid "issue"
-msgstr ""
+msgstr "випуск"
 
 #. Property comment for Bibliographic Ontology:issue
 msgid "An issue number"
-msgstr ""
+msgstr "Номер випуску"
 
 #. Property label for Bibliographic Ontology:lccn
 msgid "lccn"
@@ -5769,35 +5769,35 @@ msgstr ""
 
 #. Property label for Bibliographic Ontology:locator
 msgid "locator"
-msgstr ""
+msgstr "локатор"
 
 #. Property comment for Bibliographic Ontology:locator
 msgid "A description (often numeric) that locates an item within a containing document or collection."
-msgstr ""
+msgstr "Опис (часто числовий), який визначає місцезнаходження елемента в документі або колекції, що його містить."
 
 #. Property label for Bibliographic Ontology:numPages
 msgid "number of pages"
-msgstr ""
+msgstr "кількість сторінок"
 
 #. Property comment for Bibliographic Ontology:numPages
 msgid "The number of pages contained in a document"
-msgstr ""
+msgstr "Кількість сторінок, що містяться в документі"
 
 #. Property label for Bibliographic Ontology:numVolumes
 msgid "number of volumes"
-msgstr ""
+msgstr "кількість томів"
 
 #. Property comment for Bibliographic Ontology:numVolumes
 msgid "The number of volumes contained in a collection of documents (usually a series, periodical, etc.)."
-msgstr ""
+msgstr "Кількість томів, що містяться у збірнику документів (зазвичай серії, періодичного видання тощо)."
 
 #. Property label for Bibliographic Ontology:number
 msgid "number"
-msgstr ""
+msgstr "номер"
 
 #. Property comment for Bibliographic Ontology:number
 msgid "A generic item or document number. Not to be confused with issue number."
-msgstr ""
+msgstr "Узагальнений номер елемента або документа. Не плутати з номером випуску."
 
 #. Property label for Bibliographic Ontology:oclcnum
 msgid "oclcnum"
@@ -5809,15 +5809,15 @@ msgstr ""
 
 #. Property comment for Bibliographic Ontology:pageEnd
 msgid "Ending page number within a continuous page range."
-msgstr ""
+msgstr "Номер кінцевої сторінки в межах безперервного діапазону сторінок."
 
 #. Property label for Bibliographic Ontology:pageStart
 msgid "page start"
-msgstr ""
+msgstr "початок сторінки"
 
 #. Property comment for Bibliographic Ontology:pageStart
 msgid "Starting page number within a continuous page range."
-msgstr ""
+msgstr "Номер початкової сторінки в межах безперервного діапазону сторінок."
 
 #. Property label for Bibliographic Ontology:pages
 msgid "pages"
@@ -5825,7 +5825,7 @@ msgstr "сторінки"
 
 #. Property comment for Bibliographic Ontology:pages
 msgid "A string of non-contiguous page spans that locate a Document within a Collection. Example: 23-25, 34, 54-56. For continuous page ranges, use the pageStart and pageEnd properties."
-msgstr ""
+msgstr "Рядок несуміжних проміжків сторінок, які визначають місцезнаходження документа в колекції. Приклад: 23-25, 34, 54-56. Для неперервних діапазонів сторінок використовуйте властивості Початок сторінки та Кінець сторінки."
 
 #. Property label for Bibliographic Ontology:pmid
 msgid "pmid"
@@ -5833,19 +5833,19 @@ msgstr ""
 
 #. Property label for Bibliographic Ontology:prefixName
 msgid "prefix name"
-msgstr ""
+msgstr "префікс імені"
 
 #. Property comment for Bibliographic Ontology:prefixName
 msgid "The prefix of a name"
-msgstr ""
+msgstr "Префікс імені"
 
 #. Property label for Bibliographic Ontology:section
 msgid "section"
-msgstr ""
+msgstr "розділ"
 
 #. Property comment for Bibliographic Ontology:section
 msgid "A section number"
-msgstr ""
+msgstr "Номер розділу"
 
 #. Property label for Bibliographic Ontology:shortDescription
 msgid "shortDescription"
@@ -5861,15 +5861,15 @@ msgstr "Абревіатура назви."
 
 #. Property label for Bibliographic Ontology:sici
 msgid "sici"
-msgstr ""
+msgstr "знає"
 
 #. Property label for Bibliographic Ontology:suffixName
 msgid "suffix name"
-msgstr ""
+msgstr "суфікс імені"
 
 #. Property comment for Bibliographic Ontology:suffixName
 msgid "The suffix of a name"
-msgstr ""
+msgstr "Суфікс імені"
 
 #. Property label for Bibliographic Ontology:upc
 msgid "upc"
@@ -6298,95 +6298,95 @@ msgstr ""
 
 #. Property label for Friend of a Friend:knows
 msgid "knows"
-msgstr ""
+msgstr "знає"
 
 #. Property comment for Friend of a Friend:knows
 msgid "A person known by this person (indicating some level of reciprocated interaction between the parties)."
-msgstr ""
+msgstr "Людина, яку знає ця людина (що свідчить про певний рівень взаємної взаємодії між сторонами)."
 
 #. Property label for Friend of a Friend:interest
 msgid "interest"
-msgstr ""
+msgstr "інтереси"
 
 #. Property comment for Friend of a Friend:interest
 msgid "A page about a topic of interest to this person."
-msgstr ""
+msgstr "Сторінка про тему, що цікавить цю людину."
 
 #. Property label for Friend of a Friend:topic_interest
 msgid "topic_interest"
-msgstr ""
+msgstr "тема_інтерес"
 
 #. Property comment for Friend of a Friend:topic_interest
 msgid "A thing of interest to this person."
-msgstr ""
+msgstr "Річ, що цікавить цю людину."
 
 #. Property label for Friend of a Friend:publications
 msgid "publications"
-msgstr ""
+msgstr "публікації"
 
 #. Property comment for Friend of a Friend:publications
 msgid "A link to the publications of this person."
-msgstr ""
+msgstr "Посилання на публікації цієї особи."
 
 #. Property label for Friend of a Friend:currentProject
 msgid "current project"
-msgstr "текущий проект"
+msgstr "поточний проєкт"
 
 #. Property comment for Friend of a Friend:currentProject
 msgid "A current project this person works on."
-msgstr ""
+msgstr "Поточний проєкт, над яким працює ця особа."
 
 #. Property label for Friend of a Friend:pastProject
 msgid "past project"
-msgstr ""
+msgstr "минулий проєкт"
 
 #. Property comment for Friend of a Friend:pastProject
 msgid "A project this person has previously worked on."
-msgstr ""
+msgstr "Проєкт, над яким ця особа раніше працювала."
 
 #. Property label for Friend of a Friend:fundedBy
 msgid "funded by"
-msgstr ""
+msgstr "фінансується"
 
 #. Property comment for Friend of a Friend:fundedBy
 msgid "An organization funding a project or person."
-msgstr ""
+msgstr "Організація, яка фінансує проект або особу."
 
 #. Property label for Friend of a Friend:logo
 msgid "logo"
-msgstr ""
+msgstr "логотип"
 
 #. Property comment for Friend of a Friend:logo
 msgid "A logo representing some thing."
-msgstr ""
+msgstr "Логотип, який представляє щось."
 
 #. Property label for Friend of a Friend:topic
 msgid "topic"
-msgstr ""
+msgstr "тема"
 
 #. Property comment for Friend of a Friend:topic
 msgid "A topic of some page or document."
-msgstr ""
+msgstr "Тема сторінки або документа."
 
 #. Property label for Friend of a Friend:primaryTopic
 msgid "primary topic"
-msgstr ""
+msgstr "основна тема"
 
 #. Property comment for Friend of a Friend:primaryTopic
 msgid "The primary topic of some page or document."
-msgstr ""
+msgstr "Основна тема сторінки або документа."
 
 #. Property label for Friend of a Friend:focus
 msgid "focus"
-msgstr ""
+msgstr "фокус"
 
 #. Property comment for Friend of a Friend:focus
 msgid "The underlying or 'focal' entity associated with some SKOS-described concept."
-msgstr ""
+msgstr "Основна або «центральна» сутність, пов’язана з деякою концепцією, описаною SKOS."
 
 #. Property label for Friend of a Friend:isPrimaryTopicOf
 msgid "is primary topic of"
-msgstr ""
+msgstr "є основною темою"
 
 #. Property comment for Friend of a Friend:isPrimaryTopicOf
 msgid "A document that this thing is the primary topic of."
@@ -6460,8 +6460,8 @@ msgstr "вік"
 
 #. Property comment for Friend of a Friend:age
 msgid "The age in years of some agent."
-msgstr ""
+msgstr "Вік агента в роках"
 
 #. Property comment for Friend of a Friend:status
 msgid "A string expressing what the user is happy for the general public (normally) to know about their current activity."
-msgstr ""
+msgstr "Рядок, що вказує на те, що користувач хотів би (зазвичай) знати про його поточну діяльність."
