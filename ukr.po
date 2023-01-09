@@ -4833,7 +4833,7 @@ msgstr "Особа чи організація, яка володіє або р�
 
 #. Property label for Dublin Core:provenance
 msgid "Provenance"
-msgstr "Походження "
+msgstr "Місце видання "
 
 #. Property comment for Dublin Core:provenance
 msgid "A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation."
