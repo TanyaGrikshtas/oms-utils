@@ -1016,7 +1016,7 @@ msgstr "Попередня "
 
 #: application/view/common/pagination.phtml:19 application/view/common/sidebar-pagination.phtml:15 application/view/common/site-page-pagination.phtml:4
 msgid "Next"
-msgstr "Наступна "
+msgstr "Наступна"
 
 #: application/view/common/pagination.phtml:28
 #, php-format
