@@ -4697,11 +4697,11 @@ msgstr "Пов'язаний ресурс, до якого фізично або 
 
 #. Property label for Dublin Core:hasPart
 msgid "Has Part"
-msgstr ""
+msgstr "Частина. Випуск"
 
 #. Property comment for Dublin Core:hasPart
 msgid "A related resource that is included either physically or logically in the described resource."
-msgstr ""
+msgstr "Пов'язаний ресурс, який фізично або логічно включено в описаний ресурс."
 
 #. Property label for Dublin Core:isReferencedBy
 msgid "Is Referenced By"
@@ -4721,7 +4721,7 @@ msgstr ""
 
 #. Property label for Dublin Core:isFormatOf
 msgid "Is Format Of"
-msgstr ""
+msgstr "Формат"
 
 #. Property comment for Dublin Core:isFormatOf
 msgid "A related resource that is substantially the same as the described resource, but in another format."
@@ -4729,19 +4729,19 @@ msgstr ""
 
 #. Property label for Dublin Core:hasFormat
 msgid "Has Format"
-msgstr ""
+msgstr "Має формат"
 
 #. Property comment for Dublin Core:hasFormat
 msgid "A related resource that is substantially the same as the pre-existing described resource, but in another format."
-msgstr ""
+msgstr "Пов’язаний ресурс, який по суті такий самий, як описаний ресурс, але в іншому форматі."
 
 #. Property label for Dublin Core:conformsTo
 msgid "Conforms To"
-msgstr ""
+msgstr "Відповідає"
 
 #. Property comment for Dublin Core:conformsTo
 msgid "An established standard to which the described resource conforms."
-msgstr ""
+msgstr "Встановлений стандарт, якому відповідає описаний ресурс."
 
 #. Property label for Dublin Core:spatial
 msgid "Spatial Coverage"
@@ -4765,19 +4765,19 @@ msgstr ""
 
 #. Property comment for Dublin Core:mediator
 msgid "An entity that mediates access to the resource and for whom the resource is intended or useful."
-msgstr ""
+msgstr "Суб’єкт, який забезпечує доступ до ресурсу та для якого ресурс призначений або корисний."
 
 #. Property label for Dublin Core:dateAccepted
 msgid "Date Accepted"
-msgstr ""
+msgstr "Дата прийняття"
 
 #. Property comment for Dublin Core:dateAccepted
 msgid "Date of acceptance of the resource."
-msgstr ""
+msgstr "Дата прийняття ресурсу."
 
 #. Property label for Dublin Core:dateCopyrighted
 msgid "Date Copyrighted"
-msgstr ""
+msgstr "Дата захисту авторським правом"
 
 #. Property comment for Dublin Core:dateCopyrighted
 msgid "Date of copyright."
@@ -4805,7 +4805,7 @@ msgstr "Права доступу"
 
 #. Property comment for Dublin Core:accessRights
 msgid "Information about who can access the resource or an indication of its security status."
-msgstr ""
+msgstr "Інформація про те, хто може отримати доступ до ресурсу, або вказівка на його стан безпеки."
 
 #. Property label for Dublin Core:bibliographicCitation
 msgid "Bibliographic Citation"
@@ -4961,7 +4961,7 @@ msgstr "Неживий, тривимірний предмет або речов�
 
 #. Class label for Dublin Core Type:StillImage
 msgid "Still Image"
-msgstr ""
+msgstr "Нерухоме зображення"
 
 #. Class comment for Dublin Core Type:StillImage
 msgid "A static visual representation."
@@ -4977,43 +4977,43 @@ msgstr ""
 
 #. Vocabulary label for Bibliographic Ontology
 msgid "Bibliographic Ontology"
-msgstr ""
+msgstr "Бібліографія"
 
 #. Vocabulary comment for Bibliographic Ontology
 msgid "Bibliographic metadata (BIBO)"
-msgstr ""
+msgstr "Бібліографічні метадані"
 
 #. Class label for Bibliographic Ontology:AcademicArticle
 msgid "Academic Article"
-msgstr ""
+msgstr "Академічна стаття"
 
 #. Class comment for Bibliographic Ontology:AcademicArticle
 msgid "A scholarly academic article, typically published in a journal."
-msgstr ""
+msgstr "Наукова академічна стаття, опублікована в журналі."
 
 #. Class label for Bibliographic Ontology:Article
 msgid "Article"
-msgstr ""
+msgstr "Стаття"
 
 #. Class comment for Bibliographic Ontology:Article
 msgid "A written composition in prose, usually nonfiction, on a specific topic, forming an independent part of a book or other publication, as a newspaper or magazine."
-msgstr ""
+msgstr "Письмовий твір у прозі, як правило, наукової літератури, на певну тему, що є самостійною частиною книги чи іншого видання, наприклад газети чи журналу."
 
 #. Class label for Bibliographic Ontology:AudioDocument
 msgid "audio document"
-msgstr ""
+msgstr "аудіовидання"
 
 #. Class comment for Bibliographic Ontology:AudioDocument
 msgid "An audio document; aka record."
-msgstr ""
+msgstr "Аудіодокумент, звукозапис"
 
 #. Class label for Bibliographic Ontology:AudioVisualDocument
 msgid "audio-visual document"
-msgstr ""
+msgstr "аудіовізуальний документ"
 
 #. Class comment for Bibliographic Ontology:AudioVisualDocument
 msgid "An audio-visual document; film, video, and so forth."
-msgstr ""
+msgstr "Аудіовізуальний документ; фільм, відео, і т.п."
 
 #. Class label for Bibliographic Ontology:Bill
 msgid "Bill"
@@ -5025,7 +5025,7 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Book
 msgid "Book"
-msgstr ""
+msgstr "Книга"
 
 #. Class comment for Bibliographic Ontology:Book
 msgid "A written or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers."
@@ -5041,19 +5041,19 @@ msgstr "Секція книги."
 
 #. Class label for Bibliographic Ontology:Brief
 msgid "Brief"
-msgstr ""
+msgstr "Скорочено"
 
 #. Class comment for Bibliographic Ontology:Brief
 msgid "A written argument submitted to a court."
-msgstr ""
+msgstr "Письмовий аргумент, поданий до суду."
 
 #. Class label for Bibliographic Ontology:Chapter
 msgid "Chapter"
-msgstr ""
+msgstr "Розділ"
 
 #. Class comment for Bibliographic Ontology:Chapter
 msgid "A chapter of a book."
-msgstr ""
+msgstr "Розділ з книги."
 
 #. Class label for Bibliographic Ontology:Code
 msgid "Code"
@@ -5061,19 +5061,19 @@ msgstr ""
 
 #. Class comment for Bibliographic Ontology:Code
 msgid "A collection of statutes."
-msgstr ""
+msgstr "Збірник статутів"
 
 #. Class label for Bibliographic Ontology:CollectedDocument
 msgid "Collected Document"
-msgstr ""
+msgstr "Збірники"
 
 #. Class comment for Bibliographic Ontology:CollectedDocument
 msgid "A document that simultaneously contains other documents."
-msgstr ""
+msgstr "Документ, який одночасно містить інші документи."
 
 #. Class comment for Bibliographic Ontology:Collection
 msgid "A collection of Documents or Collections"
-msgstr ""
+msgstr "Збірник документів або колекцій"
 
 #. Class label for Bibliographic Ontology:Conference
 msgid "Conference"
@@ -5081,20 +5081,20 @@ msgstr "Конференція"
 
 #. Class comment for Bibliographic Ontology:Conference
 msgid "A meeting for consultation or discussion."
-msgstr ""
+msgstr "Зустріч для консультації чи обговорення."
 
 #. Class label for Bibliographic Ontology:CourtReporter
 msgid "Court Reporter"
-msgstr ""
+msgstr "Судовий репортер"
 
 #. Class comment for Bibliographic Ontology:CourtReporter
 msgid "A collection of legal cases."
-msgstr ""
+msgstr "Збірник юридичних документів."
 
 #. Class label for Bibliographic Ontology:Document
 #. Class label for Friend of a Friend:Document
 msgid "Document"
-msgstr ""
+msgstr "Документи"
 
 #. Class comment for Bibliographic Ontology:Document
 msgid "A document (noun) is a bounded physical representation of body of information designed with the capacity (and usually intent) to communicate. A document may manifest symbolic, diagrammatic or sensory-representational information."
@@ -5110,23 +5110,23 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:DocumentStatus
 msgid "Document Status"
-msgstr ""
+msgstr "Частина документа"
 
 #. Class comment for Bibliographic Ontology:DocumentStatus
 msgid "The status of the publication of a document."
-msgstr ""
+msgstr "Статус публікації документа."
 
 #. Class label for Bibliographic Ontology:EditedBook
 msgid "Edited Book"
-msgstr ""
+msgstr "Відредаговане видання"
 
 #. Class comment for Bibliographic Ontology:EditedBook
 msgid "An edited book."
-msgstr ""
+msgstr "Перевидання."
 
 #. Class label for Bibliographic Ontology:Email
 msgid "EMail"
-msgstr ""
+msgstr "Електронна пошта"
 
 #. Class comment for Bibliographic Ontology:Email
 msgid "A written communication addressed to a person or organization and transmitted electronically."
@@ -5134,23 +5134,23 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Excerpt
 msgid "Excerpt"
-msgstr ""
+msgstr "Витяг"
 
 #. Class comment for Bibliographic Ontology:Excerpt
 msgid "A passage selected from a larger work."
-msgstr ""
+msgstr "Уривок з твору."
 
 #. Class label for Bibliographic Ontology:Film
 msgid "Film"
-msgstr ""
+msgstr "Плівка"
 
 #. Class comment for Bibliographic Ontology:Film
 msgid "aka movie."
-msgstr ""
+msgstr "він же фільм."
 
 #. Class label for Bibliographic Ontology:Hearing
 msgid "Hearing"
-msgstr ""
+msgstr "Слухання"
 
 #. Class comment for Bibliographic Ontology:Hearing
 msgid "An instance or a session in which testimony and arguments are presented, esp. before an official, as a judge in a lawsuit."
@@ -5162,15 +5162,15 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Interview
 msgid "Interview"
-msgstr ""
+msgstr "Інтерв'ю"
 
 #. Class comment for Bibliographic Ontology:Interview
 msgid "A formalized discussion between two or more people."
-msgstr ""
+msgstr "Формалізована дискусія між двома або більше людьми."
 
 #. Class label for Bibliographic Ontology:Issue
 msgid "Issue"
-msgstr ""
+msgstr "Тема"
 
 #. Class comment for Bibliographic Ontology:Issue
 msgid "something that is printed or published and distributed, esp. a given number of a periodical"
@@ -5178,15 +5178,15 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Journal
 msgid "Journal"
-msgstr ""
+msgstr "Журнал"
 
 #. Class comment for Bibliographic Ontology:Journal
 msgid "A periodical of scholarly journal Articles."
-msgstr ""
+msgstr "Періодичне видання наукових статей."
 
 #. Class label for Bibliographic Ontology:LegalCaseDocument
 msgid "Legal Case Document"
-msgstr ""
+msgstr "Юридичний документ"
 
 #. Class comment for Bibliographic Ontology:LegalCaseDocument
 msgid "A document accompanying a legal case."
@@ -5202,7 +5202,7 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:LegalDocument
 msgid "Legal Document"
-msgstr ""
+msgstr "Юридичний документ"
 
 #. Class comment for Bibliographic Ontology:LegalDocument
 msgid "A legal document; for example, a court decision, a brief, and so forth."
@@ -5210,7 +5210,7 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Legislation
 msgid "Legislation"
-msgstr ""
+msgstr "Законодавство"
 
 #. Class comment for Bibliographic Ontology:Legislation
 msgid "A legal document proposing or enacting a law or a group of laws."
@@ -5218,25 +5218,24 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Letter
 msgid "Letter"
-msgstr ""
+msgstr "Лист"
 
 #. Class comment for Bibliographic Ontology:Letter
 msgid "A written or printed communication addressed to a person or organization and usually transmitted by mail."
-msgstr ""
+msgstr "Письмове або друковане повідомлення, адресоване особі чи організації та зазвичай передається поштою."
 
 #. Class label for Bibliographic Ontology:Magazine
 msgid "Magazine"
-msgstr ""
+msgstr "Журнал"
 
 #. Class comment for Bibliographic Ontology:Magazine
-msgid ""
-"A periodical of magazine Articles. A magazine is a publication that is issued periodically, usually bound in a paper cover, and typically contains essays, stories, poems, etc., by many writers, and often photographs and drawings, frequently "
+msgid "A periodical of magazine Articles. A magazine is a publication that is issued periodically, usually bound in a paper cover, and typically contains essays, stories, poems, etc., by many writers, and often photographs and drawings, frequently "
 "specializing in a particular subject or area, as hobbies, news, or sports."
 msgstr ""
 
 #. Class label for Bibliographic Ontology:Manual
 msgid "Manual"
-msgstr ""
+msgstr "Інструкція"
 
 #. Class comment for Bibliographic Ontology:Manual
 msgid "A small reference book, especially one giving instructions."
@@ -5244,7 +5243,7 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Manuscript
 msgid "Manuscript"
-msgstr ""
+msgstr "Рукопис"
 
 #. Class comment for Bibliographic Ontology:Manuscript
 msgid "An unpublished Document, which may also be submitted to a publisher for publication."
@@ -5252,24 +5251,27 @@ msgstr ""
 
 #. Class label for Bibliographic Ontology:Map
 msgid "Map"
-msgstr ""
+msgstr "Карта"
 
 #. Class comment for Bibliographic Ontology:Map
 msgid "A graphical depiction of geographic features."
-msgstr ""
+msgstr "Графічне зображення географічних об’єктів."
 
 #. Class label for Bibliographic Ontology:MultiVolumeBook
 msgid "Multivolume Book"
-msgstr ""
+msgstr "Багатотомник"
 
 #. Class comment for Bibliographic Ontology:MultiVolumeBook
+msgid "Multivolume Book"
+msgstr "Багатотомник"
+
 #. Class comment for Bibliographic Ontology:Series
 msgid "A loose, thematic, collection of Documents, often Books."
 msgstr ""
 
 #. Class label for Bibliographic Ontology:Newspaper
 msgid "Newspaper"
-msgstr ""
+msgstr "Газета
 
 #. Class comment for Bibliographic Ontology:Newspaper
 msgid "A periodical of documents, usually issued daily or weekly, containing current news, editorials, feature articles, and usually advertising."
