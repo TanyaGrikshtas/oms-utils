@@ -86,7 +86,7 @@ msgstr "Ласкаво Просимо на ваш новий сайт. Це ст
 
 #: application/src/Api/Adapter/SiteAdapter.php:390
 msgid "Browse"
-msgstr "Переглядати"
+msgstr "Перегляд"
 
 #: application/src/Api/Manager.php:201
 #, php-format
