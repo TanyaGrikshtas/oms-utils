@@ -6467,3 +6467,6 @@ msgstr "Вік агента в роках"
 #. Property comment for Friend of a Friend:status
 msgid "A string expressing what the user is happy for the general public (normally) to know about their current activity."
 msgstr "Рядок, що вказує на те, що користувач хотів би (зазвичай) знати про його поточну діяльність."
+
+msgid "Search by ID"
+msgstr "Пошук за номером ID"
